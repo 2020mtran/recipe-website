@@ -1,11 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-snowpink: #F9F5F5;
+  --color-chilired: #E53935;
+}
+
 #root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-}
+} */
 
-.logo {
+/* .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
@@ -39,4 +53,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
