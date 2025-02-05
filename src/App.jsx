@@ -9,7 +9,6 @@ function App() {
     <>
       <Background>
         <MainContainer>
-          <Header></Header>
         </MainContainer>
       </Background>
     </>
