@@ -3,6 +3,8 @@
 @theme {
   --color-snowpink: #F9F5F5;
   --color-chilired: #E53935;
+  --breakpoint-xs: 25rem;
+  --breakpoint-3xl: 112.5rem;
 }
 
 #root {
