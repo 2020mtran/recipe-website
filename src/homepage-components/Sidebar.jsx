@@ -28,11 +28,11 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
     return (
         <>
             {isOpen && (
-                <div className='fixed inset-0 bg-black/20 backdrop-blur-xs transition-opacity duration-300' onClick={() => setIsOpen(false)}></div>
+                <div className='fixed inset-0 bg-black/20 backdrop-blur-xs transition-opacity duration-300 z-[9998]' onClick={() => setIsOpen(false)}></div>
             )}
             <div className={`flex flex-col fixed top-0 left-0 h-full w-66 pt-3 bg-chilired 
             transform ${isOpen ? "transform-x-0" : "-translate-x-full"} 
-            transition-transform duration-300 ease-in-out`} ref={sidebarRef}>
+            transition-transform duration-300 ease-in-out z-[9999]`} ref={sidebarRef}>
                 <div className="flex flex-col self-center space-x-0 gap-2">
                     <div className="flex flex-row items-center gap-1 pt-2 pb-2 border-b border-b-black/50">
                         <FaHome className="text-snowpink w-8 h-8"></FaHome>

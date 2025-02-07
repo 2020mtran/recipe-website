@@ -5,6 +5,7 @@
   --color-chilired: #E53935;
   --breakpoint-xs: 25rem;
   --breakpoint-3xl: 112.5rem;
+  --text-xxs: 0.6rem;
 }
 
 #root {

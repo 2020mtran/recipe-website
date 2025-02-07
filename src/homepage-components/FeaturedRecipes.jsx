@@ -1,11 +1,28 @@
 import React from 'react';
-import SpringRolls from '../assets/springrolls.webp'
+import BanhXeo from '../assets/banhxeo.jpg'
+import BbqRoastPork from '../assets/bbqroastpork.jpg'
+import StickyRiceMango from '../assets/StickyRiceMango.jpg'
 
 const FeaturedRecipes = () => {
     return (
-        <div className="flex flex-row w-full p-3 sm:p-5 md:p-7 lg:p-9 xl:p-11 2xl:p-13 3xl:p-14 items-center">
-            <p className='text-chilired text-xl/5 xs:text-2xl/7 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl xl:mr-6 2xl:text-7xl 3xl:text-8xl font-bold'>From <span className='italic'>our</span> kitchen to <span className='italic'>yours</span>, let's make Vietnamese food together!</p>
-            <img src={SpringRolls} className='w-1/2 md:w-4/7 xl:w-1/2 rounded-lg'/>
+        <div className='flex flex-col p-3 sm:p-5 md:p-7 lg:p-9 xl:p-11 2xl:p-13 3xl:p-14 gap-1 md:gap-3 2xl:gap-5 3xl:gap-7'>
+            <p className='text-black font-bold text-lg md:text-3xl lg:text-4xl xl:text-5xl 3xl:text-6xl'>Featured Recipes</p>
+            <div className="flex flex-row justify-between w-full gap-1 items-center">
+                <div className='flex flex-col w-[30%] gap-1 2xl:gap-3'>
+                    <img src={BanhXeo} className='aspect-square object-cover rounded-lg drop-shadow-md md:drop-shadow-lg'/>
+                    <p className='text-xxs/3 md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-black font-semibold text-center min-h-[40px] md:min-h-[60px]'>Vietnamese Crispy Crepe (Bánh Xèo)</p>
+                </div>
+                <div className="h-1/2 border-l-1 lg:border-l-2 -mt-10 md:-mt-15 border-black/85"></div>
+                <div className='flex flex-col w-[30%] gap-1 2xl:gap-3'>
+                    <img src={BbqRoastPork} className='aspect-square object-cover rounded-lg drop-shadow-md md:drop-shadow-lg'/>
+                    <p className='text-xxs/3 md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-black font-semibold text-center min-h-[40px] md:min-h-[60px]'>Chinese BBQ Roast Pork</p>
+                </div>
+                <div className="h-1/2 border-l-1 lg:border-l-2 -mt-10 md:-mt-15 border-black/85"></div>
+                <div className='flex flex-col w-[30%] gap-1 2xl:gap-3'>
+                    <img src={StickyRiceMango} className='aspect-square object-cover rounded-lg drop-shadow-md md:drop-shadow-lg'/>
+                    <p className='text-xxs/3 md:text-base lg:text-lg xl:text-xl 2xl:text-2xl 3xl:text-3xl text-black font-semibold text-center min-h-[40px] md:min-h-[60px]'>Thai Sweet Sticky Rice with Mango</p>
+                </div>
+            </div>
         </div>
     );
 };

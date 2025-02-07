@@ -12,7 +12,7 @@ const MainContainer = ({ children }) => {
             <Header isOpen={isOpen} setIsOpen={setIsOpen} />
             <Sidebar isOpen={isOpen} setIsOpen={setIsOpen} />
             <HeroSection></HeroSection>
-            {/* <FeaturedRecipes></FeaturedRecipes> */}
+            <FeaturedRecipes></FeaturedRecipes>
             {children}
         </div>
     );
