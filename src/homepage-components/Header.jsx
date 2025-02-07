@@ -34,7 +34,7 @@ const Header = ({ isOpen, setIsOpen }) => {
                     <button className="bg-transparent text-2xl font-semibold text-black">About</button>
                 </div>
             </div>
-            <div className="hidden xl:flex flex-row space-x-0 gap-10 2xl:gap-15">
+            <div className="hidden xl:flex flex-row space-x-0 gap-10 3xl:gap-20">
                 <div className="flex flex-row items-center gap-1">
                     <FaHome className="text-black w-12 h-12 xl:w-13 xl:h-13"></FaHome>
                     <button className="bg-transparent text-3xl 2xl:text-4xl font-semibold text-black">Home</button>
