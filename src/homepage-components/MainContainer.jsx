@@ -4,6 +4,7 @@ import Sidebar from './Sidebar';
 import HeroSection from './HeroSection';
 import FeaturedRecipes from './FeaturedRecipes';
 import NewRecipes from './NewRecipes';
+import Reviews from './Reviews';
 
 const MainContainer = ({ children }) => {
     const [isOpen, setIsOpen] = useState(false);
@@ -15,6 +16,7 @@ const MainContainer = ({ children }) => {
             <HeroSection></HeroSection>
             <FeaturedRecipes></FeaturedRecipes>
             <NewRecipes></NewRecipes>
+            <Reviews></Reviews>
             {children}
         </div>
     );
