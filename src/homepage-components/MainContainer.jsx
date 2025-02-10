@@ -5,6 +5,7 @@ import HeroSection from './HeroSection';
 import FeaturedRecipes from './FeaturedRecipes';
 import NewRecipes from './NewRecipes';
 import Reviews from './Reviews';
+import Guidance from './Guidance';
 
 const MainContainer = ({ children }) => {
     const [isOpen, setIsOpen] = useState(false);
@@ -17,6 +18,7 @@ const MainContainer = ({ children }) => {
             <FeaturedRecipes></FeaturedRecipes>
             <NewRecipes></NewRecipes>
             <Reviews></Reviews>
+            <Guidance></Guidance>
             {children}
         </div>
     );
