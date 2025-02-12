@@ -6,6 +6,7 @@ import FeaturedRecipes from './FeaturedRecipes';
 import NewRecipes from './NewRecipes';
 import Reviews from './Reviews';
 import Guidance from './Guidance';
+import Footer from './Footer';
 
 const MainContainer = ({ children }) => {
     const [isOpen, setIsOpen] = useState(false);
@@ -19,6 +20,7 @@ const MainContainer = ({ children }) => {
             <NewRecipes></NewRecipes>
             <Reviews></Reviews>
             <Guidance></Guidance>
+            <Footer></Footer>
             {children}
         </div>
     );
