@@ -41,7 +41,7 @@ const Guidance = () => {
                         <img src={SloppyJoes} className='min-h-28 aspect-5/4 lg:aspect-3/2 xl:aspect-7/3 object-cover rounded-lg' style={{ 
                             WebkitMaskImage: 'linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.75) 90%)' }} />
                         <div className='flex absolute inset-0 justify-center mt-1.5'>
-                            <p className='text-lg xs:text-2xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 3xl:text-6xl font-semibold [text-shadow:2px_2px_2px_black]'>Other Food</p>
+                            <p className='text-lg xs:text-2xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 3xl:text-6xl font-semibold [text-shadow:2px_2px_2px_black]'>International Food</p>
                         </div>
                     </div>
                 </div>
