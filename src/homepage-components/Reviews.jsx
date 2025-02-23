@@ -3,7 +3,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Reviews = () => {
     return (
-        <div className='flex flex-col p-3 pb-0 sm:p-5 sm:pb-0 md:p-7 md:pb-0 lg:p-9 lg:pb-0 xl:p-11 xl:pb-0 2xl:p-13 2xl:pb-0 3xl:p-14 3xl:pb-0 gap-1 md:gap-3 2xl:gap-5 3xl:gap-7'>
+        <div className='flex flex-col p-3 pb-0 sm:p-5 sm:pb-0 md:p-7 md:pb-0 lg:p-9 lg:pb-0 xl:p-11 xl:pb-0 2xl:p-13 2xl:pb-0 3xl:p-14 3xl:pb-0 gap-1 md:gap-3 2xl:gap-5 3xl:gap-7 2xl:pr-16 2xl:pl-14 3xl:pr-22 3xl:pl-20'>
             <p className='text-black font-bold text-lg md:text-3xl lg:text-4xl xl:text-5xl 3xl:text-6xl'>Viewer Reviews</p>
             <div className='grid grid-cols-2 grid-rows-2 gap-2'>
                 <div className='flex flex-row'>
