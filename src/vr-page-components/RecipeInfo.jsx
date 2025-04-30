@@ -4,7 +4,6 @@ const RecipeInfo = [
         name: "Asparagus Crab Soup",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1740795793/20210403_154041_resized-768x576_ue3f0h.jpg",
         summary: "Vietnamese Asparagus Crab Soup (Súp Măng Tây Cua) is a light, elegant soup that combines the delicate sweetness of crab meat with tender asparagus in a silky, flavorful broth. This classic Vietnamese dish is often served as an appetizer at special gatherings, offering a perfect balance of savory and umami flavors.",
-        difficulty: "Easy",
         ingredients: [
             "2 (32 oz) Cardboard Containers of Organic Chicken Broth",
             "1 (12 oz) Container of Lump Crab Meat (Equals 2 Cups of Lump Crab Meat)",
@@ -46,7 +45,6 @@ const RecipeInfo = [
         name: "Baby Bok Choy Soup",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745109930/20161205_194949-400x400_u6knon.jpg",
         summary: "A comforting Vietnamese soup that balances savory ground pork, fragrant ginger, and tender baby bok choy in a clear, flavorful broth. This dish features marinated pork simmered in a seasoned stock, finished with lightly cooked bok choy to preserve its crunch. Traditionally served with white rice, it's a wholesome, everyday favorite in Vietnamese home cooking.",
-        difficulty: "Medium",
         ingredients: [
         "1/2 Pound Ground Pork",
         "1/2 Tablespoon Fish Sauce",

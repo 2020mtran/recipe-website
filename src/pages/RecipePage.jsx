@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import RecipeInfo from '../vr-page-components/RecipeInfo.jsx';
 import Header from '../homepage-components/Header';
 import Sidebar from '../homepage-components/Sidebar';
+import Footer from '../homepage-components/Footer';
 
 const RecipePage = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -32,7 +33,7 @@ const RecipePage = () => {
                 </div>
                 <div className='xl:w-full'>
                     <div className='flex flex-row relative items-center mt-2'>
-                        <p className="text-chilired text-lg font-bold md:text-2xl 2xl:text-2xl mr-2">Difficulty: {recipe.difficulty}</p>
+                        <p className="text-chilired text-lg font-bold md:text-2xl 2xl:text-2xl mr-2">Summary</p>
                         <div className="flex-grow border-t border-black/85"></div>
                     </div>
                     <p className="text-black mt-1 text-sm md:text-base 2xl:text-xl">{recipe.summary}</p>
@@ -54,10 +55,10 @@ const RecipePage = () => {
                     ))}
                 </ul>
                 <div className='flex flex-row relative items-center mt-2'>
-                    <p className='text-chilired text-lg font-semibold md:text-2xl mr-2 flex'>Steps</p>
+                    <p className='text-chilired text-lg font-semibold md:text-2xl mr-2 mb-3 flex'>Steps</p>
                     <div className="flex-grow border-t border-black/85"></div>
                 </div>
-                <div className='grid grid-cols-2 gap-6'>
+                <div className='grid grid-cols-2 gap-6 pb-7'>
                     {recipe.steps.map(([description, image], index) => (
                         <div key={index} className='flex flex-col p-4 rounded-lg shadow bg-white min-h-[300px]'>
                             {image && <img key={index} src={image} className='rounded-lg object-cover h-90 mb-3 w-full'/>}
@@ -66,6 +67,7 @@ const RecipePage = () => {
                     ))}
                 </div>
             </div>
+            <Footer></Footer>
         </div>
     )
 }
