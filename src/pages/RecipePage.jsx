@@ -57,14 +57,14 @@ const RecipePage = () => {
                     <p className='text-chilired text-lg font-semibold md:text-2xl mr-2 flex'>Steps</p>
                     <div className="flex-grow border-t border-black/85"></div>
                 </div>
-                <ol type="1" className="mt-2 list-decimal list-inside text-black">
+                <div className='grid grid-cols-2 gap-6'>
                     {recipe.steps.map(([description, image], index) => (
-                        <div className='mb-4'>
-                            <li key={index} className="text-sm md:text-xl 2xl:text-2xl mb-2">{description}</li>
-                            {image && <img key={index} src={image} className='rounded-lg'/>}
+                        <div key={index} className='flex flex-col p-4 rounded-lg shadow bg-white min-h-[300px]'>
+                            {image && <img key={index} src={image} className='rounded-lg object-cover h-90 mb-3 w-full'/>}
+                            <p className="text-sm md:text-xl 2xl:text-2xl mb-2 text-black">{index + 1}. {description}</p>
                         </div>
                     ))}
-                </ol>
+                </div>
             </div>
         </div>
     )

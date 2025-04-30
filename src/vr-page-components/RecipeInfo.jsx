@@ -40,6 +40,41 @@ const RecipeInfo = [
             ["Serve immediately while hot otherwise the soup has a tendency to thin out as it cools.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1740795793/20210403_154041_resized-768x576_ue3f0h.jpg"]
         ]
         
+    },
+    {
+        id: 2,
+        name: "Baby Bok Choy Soup",
+        display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745109930/20161205_194949-400x400_u6knon.jpg",
+        summary: "A comforting Vietnamese soup that balances savory ground pork, fragrant ginger, and tender baby bok choy in a clear, flavorful broth. This dish features marinated pork simmered in a seasoned stock, finished with lightly cooked bok choy to preserve its crunch. Traditionally served with white rice, it's a wholesome, everyday favorite in Vietnamese home cooking.",
+        difficulty: "Medium",
+        ingredients: [
+        "1/2 Pound Ground Pork",
+        "1/2 Tablespoon Fish Sauce",
+        "1/4 Teaspoon Garlic Salt",
+        "1/8 Teaspoon Black Pepper",
+        "1/2 Teaspoon Totole Chicken Soup Base Mix",
+        "1 Tablespoon Chopped Shallots",
+        "10 Cups Water",
+        "1/2 Tablespoon Salt",
+        "1 1/2 Tablespoons Totole Chicken Soup Base Mix",
+        "1/2 Cup Sliced Ginger",
+        "1 Package Baby Bok Choy"
+        ],
+        steps: [
+          ["In a bowl combine the ground pork with the fish sauce, garlic salt, black pepper, Totole Chicken Soup Base Mix, and chopped shallots. Marinate for 30 minutes.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110243/20161205_201244-768x743_kshbtu.jpg"],
+          ["Then seperate into smaller pieces.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110249/20161205_200841-768x576_krbz1x.jpg"],
+          ["Wash the Baby Bok Choy 2 to 3 times.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110322/20161205_194949-768x576_k4kng5.jpg"],
+          ["Cut into smaller bite size pieces. Set aside.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110260/20161205_200430-768x645_q7sxnt.jpg"],
+          ["Peel and slice the ginger.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110266/20161205_200714-768x711_jhbkfn.jpg"],
+          ["Fill a pot with 10 cups of water. Add in the salt, Totole Chicken Soup Base Mix and ginger. Bring to a boil.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110271/20161205_200314-768x590_fldwqo.jpg"],
+          ["Add in the marinated pork.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110277/20161205_200125-768x699_aw1s22.jpg"],
+          ["And bring the soup back to a boil", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110282/20161205_195937-768x621_k8cla5.jpg"],
+          ["Remove any scum from the top of the soup.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110302/20170504_174423-768x651_h5azfj.jpg"],
+          ["Add in the bok choy and once again bring the soup back to a boil for the last time.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110308/20161205_195817-768x424_lopx87.jpg"],
+          ["Reduce the heat to Medium and cook for about 1 to 2 minutes until the bok choy stems are slightly tender. Do not cook them for too long as they will become too soft. Then turn off the heat.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110314/20161205_195432-768x637_iuhyuw.jpg"],
+          ["Sprinkle on some black pepper.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110322/20161205_194949-768x576_k4kng5.jpg"],
+          ["Serve with white rice.", "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745110332/20170504_160548-768x576_a7vf5k.jpg"],
+        ],
     }
 ]
 

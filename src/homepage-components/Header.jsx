@@ -4,6 +4,7 @@ import { FaHome, FaBook, FaInstagram, FaFacebook, FaYoutube, FaPinterest, FaBars
 import { IoPerson, IoSearch } from "react-icons/io5";
 import { LuSalad } from "react-icons/lu";
 import { TbBowlChopsticks } from "react-icons/tb";
+import { Link } from 'react-router-dom';
 
 const Header = ({ isOpen, setIsOpen }) => {
     return (
@@ -35,14 +36,14 @@ const Header = ({ isOpen, setIsOpen }) => {
                 </div>
             </div>
             <div className="hidden xl:flex flex-row gap-10 3xl:gap-20">
-                <div className="flex flex-row items-center gap-1">
+                <Link to="/" className="flex flex-row items-center gap-1">
                     <FaHome className="text-black w-9 h-9"></FaHome>
                     <button className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">Home</button>
-                </div>
-                <div className="flex flex-row items-center gap-1">
+                </Link>
+                <Link to="/pages/vietnamese-recipes" className="flex flex-row items-center gap-1">
                     <TbBowlChopsticks className="text-black w-9 h-9 2xl:w-10 2xl:h-10"></TbBowlChopsticks>
                     <button className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">Vietnamese</button>
-                </div>
+                </Link>
                 <div className="flex flex-row items-center gap-1">
                     <LuSalad className="text-black w-9 h-9 2xl:w-10 2xl:h-10"></LuSalad>
                     <button className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">Healthy</button>
