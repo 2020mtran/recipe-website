@@ -7,7 +7,7 @@ const VRMainContainer = ({ children }) => {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
-        <div className="flex flex-col w-full overflow-y-auto">
+        <div className="flex flex-col min-h-screen w-full overflow-y-auto">
             <Header isOpen={isOpen} setIsOpen={setIsOpen} />
             <Sidebar isOpen={isOpen} setIsOpen={setIsOpen} />
             <VRRecipes />
