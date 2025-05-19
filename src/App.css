@@ -2,6 +2,7 @@
 
 @theme {
   --color-snowpink: #F9F5F5;
+  --color-mutedgrey: #b0a9a9;
   --color-chilired: #E53935;
   --breakpoint-xs: 25rem;
   --breakpoint-3xl: 112.5rem;
@@ -9,7 +10,7 @@
 }
 
 #root {
-  width: 100%;
+  /* width: 100%; */
   max-width: none;
   margin: 0;
   padding: 0;

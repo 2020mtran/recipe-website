@@ -1,7 +1,8 @@
 import { React, useRef, useEffect } from 'react';
-import { FaHome, FaBook } from "react-icons/fa";
-import { IoPerson, IoSearch } from "react-icons/io5";
-import { TbBowl, TbBowlChopsticks } from "react-icons/tb";
+import { Link } from 'react-router-dom';
+import { FaHome } from "react-icons/fa";
+import { IoPerson } from "react-icons/io5";
+import { TbBowlChopsticks } from "react-icons/tb";
 import { LuSalad, LuDessert } from "react-icons/lu";
 import { FaEarthAmericas } from "react-icons/fa6";
 
@@ -35,14 +36,14 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
             transform ${isOpen ? "transform-x-0" : "-translate-x-full"} 
             transition-transform duration-300 ease-in-out z-[9999]`} ref={sidebarRef}>
                 <div className="flex flex-col self-center space-x-0 gap-2">
-                    <div className="flex flex-row items-center gap-1 pt-2 pb-2 border-b border-b-black/50">
+                    <Link to="/" className="flex flex-row items-center gap-1 pt-2 pb-2 border-b border-b-black/50" onClick={() => setIsOpen(false)}>
                         <FaHome className="text-snowpink w-8 h-8"></FaHome>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">Home</button>
-                    </div>
-                    <div className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
+                    </Link>
+                    <Link to="/pages/vietnamese-recipes" className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
                         <TbBowlChopsticks className="text-snowpink w-8 h-8"></TbBowlChopsticks>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">Vietnamese Recipes</button>
-                    </div>
+                    </Link>
                     <div className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
                         <LuSalad className="text-snowpink w-8 h-8"></LuSalad>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">Healthy Recipes</button>
