@@ -2,6 +2,7 @@ const RecipeInfo = [
     {
         id: 1,
         name: "Anchovy Dipping Sauce",
+        vietName: "Mắm Nêm",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746725752/20170412_210605-768x576_sqqisz.jpg",
         videoId: "Iin6gSFrds0",
         summary: "This flavorful Vietnamese dipping sauce, made with Mắm Nêm (anchovy sauce), combines garlic, chili, lemongrass, lime juice, crushed pineapple, and fish sauce for a bold, sweet-savory-spicy profile. Perfect for pairing with roasted catfish, grilled meats, or Vietnamese salads, it's easily customizable to match your taste preferences.",
@@ -31,6 +32,7 @@ const RecipeInfo = [
     {
         id: 2,
         name: "Artichoke And Pork Rib Soup",
+        vietName: "Canh Atiso Sưòn Heo",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746727092/20180303_201536-768x621_r5psph.jpg",
         videoId: "",
         summary: "Artichoke and Pork Rib Soup is a delicious and hearty dish that blends the rich flavors of tender pork riblets and artichokes in a savory broth. With the addition of aromatic seasonings and fresh garnishes, this comforting soup offers a perfect balance of flavors and textures.",
@@ -64,6 +66,7 @@ const RecipeInfo = [
     {
         id: 3,
         name: "Asian Fruit Cocktail",
+        vietName: "Chè Thái",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746729020/Capture-che-400x400_nrpwju.png",
         videoId: "KjvDrGduwB4",
         summary: "A refreshing and colorful Vietnamese dessert, Chè Thái blends tropical canned fruits, chewy jelly, and creamy half & half into a sweet, chilled treat. Popular at gatherings and on hot days, this fruit cocktail delivers a delightful mix of textures and flavors in every spoonful.",
@@ -105,6 +108,7 @@ const RecipeInfo = [
     {
         id: 4,
         name: "Asian Grilled Shrimp",
+        vietName: "Tôm Nướng",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746740489/20200627_224326-480x640_tvx9do.jpg",
         videoId: "",
         summary: "Asian Grilled Shrimp is a flavorful and aromatic dish featuring extra jumbo prawns marinated in a savory mix of garlic, spices, and fish sauce. Grilled in rich butter for added depth, it's served with your choice of a tangy lemon dip or a creamy sriracha mayo, making it a perfect centerpiece for any seafood lover’s meal.",
@@ -136,6 +140,7 @@ const RecipeInfo = [
     {
         id: 5,
         name: "Asparagus Crab Soup",
+        vietName: "Súp Măng Cua",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1740795793/20210403_154041_resized-768x576_ue3f0h.jpg",
         videoId: "qpXFMMOY1Vs",
         summary: "Vietnamese Asparagus Crab Soup (Súp Măng Tây Cua) is a light, elegant soup that combines the delicate sweetness of crab meat with tender asparagus in a silky, flavorful broth. This classic Vietnamese dish is often served as an appetizer at special gatherings, offering a perfect balance of savory and umami flavors.",
@@ -178,6 +183,7 @@ const RecipeInfo = [
     {
         id: 6,
         name: "Baby Bok Choy Soup",
+        vietName: "Canh Cải Ngọt",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1745109930/20161205_194949-400x400_u6knon.jpg",
         videoId: "",
         summary: "A comforting Vietnamese soup that balances savory ground pork, fragrant ginger, and tender baby bok choy in a clear, flavorful broth. This dish features marinated pork simmered in a seasoned stock, finished with lightly cooked bok choy to preserve its crunch. Traditionally served with white rice, it's a wholesome, everyday favorite in Vietnamese home cooking.",
@@ -213,6 +219,7 @@ const RecipeInfo = [
     {
         id: 7,
         name: "Banana Ice Cream Pops",
+        vietName: "Kem Chuối",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746749152/Capture-banana2-400x400_vvjudz.png",
         videoId: "f29OgJpkbIw",
         summary: "Vietnamese Banana Ice Cream Pops (Kem Chuối) are a nostalgic frozen treat made with sweet Manzano bananas, rich coconut milk, shredded coconut, and crunchy roasted peanuts. Layered and frozen on sticks, they offer a creamy, nutty, and naturally sweet flavor that's both refreshing and satisfying on hot days.",
@@ -244,6 +251,7 @@ const RecipeInfo = [
     {
         id: 8,
         name: "Bánh Mì - Vietnamese Sandwich",
+        vietName: "Bánh Mì",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746828057/20161208_152046-400x400_puhvkt.jpg",
         videoId: "",
         summary: "This classic Bánh Mì brings together crisp baguette, rich pâté, savory Vietnamese cold cuts, and tangy pickled veggies. Topped with jalapeños and fresh cilantro, it's a bold, flavorful sandwich with a perfect balance of textures and tastes.",
@@ -272,7 +280,8 @@ const RecipeInfo = [
     },
     {
         id: 9,
-        name: "Vietnamese Beef Stew - Bò Kho",
+        name: "Vietnamese Beef Stew",
+        vietName: "Bò Kho",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746828621/20171030_174703-768x722_zee2lx.jpg",
         videoId: "UUNec_kdJso",
         summary: "A rich and hearty Vietnamese beef stew, Bò Kho is made with tender beef, aromatic herbs, and spices. The dish is known for its savory, slightly spicy flavor, with a deliciously rich broth. It's traditionally served with pho noodles or French baguettes.",
@@ -357,10 +366,11 @@ const RecipeInfo = [
     },
     {
         id: 10,
-        name: "Stuffed Bitter Melon Soup - Canh Khổ Qua Nhồi Thịt",
+        name: "Stuffed Bitter Melon Soup",
+        vietName: "Canh Khổ Qua Nhồi Thịt",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746836176/SPhotoEditor-20190116_173254-768x576_egcwx6.jpg",
         videoId: "",
-        summary: "",
+        summary: "Stuffed Bitter Melon Soup (Canh Khổ Qua Nhồi Thịt) is a classic Vietnamese dish featuring bitter melons filled with a savory ground pork mixture. The stuffing includes wood ear mushrooms, glass noodles, and aromatics, giving it a flavorful and satisfying texture. The stuffed melons are gently simmered with pork neck bones in a light, clear broth made with chicken base and seasonings.",
         ingredients: [
         "1 Pound Pork Neck Bones",
         "4 Bitter Melons ( Each about 8''- 9'' long or a little bit longer than the width of your hand stretched out - Cut evenly into 4 pieces )",
@@ -405,6 +415,7 @@ const RecipeInfo = [
     {
         id: 11,
         name: "Braised Bacon",
+        vietName: "Thịt Kho",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746841444/20161120_170245-768x701_tj5zpx.jpg",
         videoId: "AzGotQ0GqPc",
         summary: "Braised Bacon is a savory-sweet comfort dish that combines caramelized sugar, smoky bacon, and tender carrots simmered in a rich fish sauce broth. This dish is full of bold flavors and is best enjoyed with fluffy white rice, crisp cucumber slices, and a spicy Thai chili pepper on the side.",
@@ -449,6 +460,7 @@ const RecipeInfo = [
     {
         id: 12,
         name: "Carmelized Fish",
+        vietName: "Cá Kho Tộ",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746842189/20161107_210457-1-768x723_xj9dwh.jpg",
         videoId: "",
         summary: "Carmelized Fish (Cá Kho) is a traditional Vietnamese comfort dish that brings rich, savory flavors together in a sweet and salty caramelized sauce. Made with tender catfish steaks marinated in garlic, shallots, and fish sauce, then simmered in young coconut juice with mushrooms and Thai chilies, this dish is bold yet balanced. Serve it over fluffy white rice with crisp cucumbers or tangy pickled beansprouts.",
@@ -499,7 +511,8 @@ const RecipeInfo = [
     },
     {
         id: 13,
-        name: "Carmelized Pork With Tofu - Thịt Kho",
+        name: "Carmelized Pork With Tofu",
+        vietName: "Thịt Kho",
         display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1746842759/20220519_220042-768x660_az0obr.jpg",
         videoId: "FsEilIdwE0E",
         summary: "Thịt Kho is a beloved Vietnamese dish made with tender pork shoulder slowly simmered in a rich caramelized sauce of coconut juice, fish sauce, and aromatics. This version includes soft tofu and your choice of eggs—either boiled or quail—for added texture and heartiness. Finished with a sprinkle of black pepper and green onions, it's a comforting and flavorful dish best enjoyed with steamed rice.",
@@ -557,7 +570,8 @@ const RecipeInfo = [
     },
     {
     id: 14,
-    name: "Chicken Cabbage Salad (Gỏi Gà)",
+    name: "Chicken Cabbage Salad",
+    vietName: "Gỏi Gà",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747011015/20170226_215449-768x861_yvxtxf.jpg",
     videoId: "yVhUnz9jJvc",
     summary: "This refreshing Vietnamese Chicken Cabbage Salad, known as Gỏi Gà, combines tender shredded chicken with crisp cabbage, sweet carrots, and fragrant herbs like mint, cilantro, and Vietnamese coriander. Light yet flavorful, this salad is typically served with a traditional fish sauce dressing, making it a perfect dish for warm weather or a light, satisfying meal.",
@@ -612,7 +626,8 @@ const RecipeInfo = [
 },
 {
     id: 15,
-    name: "Chicken Curry – Cà Ri Gà",
+    name: "Chicken Curry",
+    vietName: "Cà Ri Gà",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747082964/tofu-final_gwkzm4.jpg",
     videoId: "zCys4SwLxkc",
     summary: "Cà Ri Gà is a rich and aromatic Vietnamese-style chicken curry made with tender leg quarters, hearty vegetables, and creamy coconut broth. Served with baguette or vermicelli noodles, this comforting dish is deeply flavorful and perfect for sharing.",
@@ -709,6 +724,7 @@ const RecipeInfo = [
 {
     id: 16,
     name: "Chicken Ragu",
+    vietName: "Ragu Gà",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747094527/20161024_190905-1-768x576_r4exme.jpg",
     videoId: "S4ESuZLGa_A",
     summary: "Chicken Ragu is a hearty and flavorful Vietnamese-inspired stew featuring tender chicken leg quarters simmered in a rich tomato-based sauce. The dish is infused with a savory blend of fish sauce, garlic, shallots, and aromatic herbs. Vegetables like carrots, potatoes, mushrooms, and tomatoes add depth and texture, while a touch of sugar balances the acidity of the tomato paste and Prego sauce.",
@@ -773,6 +789,7 @@ const RecipeInfo = [
 {
     id: 17,
     name: "Chicken Rice Porridge",
+    vietName: "Cháo Gà",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747097070/20161228_145917-768x707_nxpxvi.jpg",
     videoId: "kAf1t9dDFog",
     summary: "Chicken Rice Porridge is a comforting, savory dish made by simmering jasmine rice with a seasoned broth of Totole chicken base, salt, and ginger. Boiled and shredded chicken leg quarters are added for heartiness, while garnishes like chopped green onions, cilantro, black pepper, fried shallots, soy sauce, chili paste, and lime wedges bring layers of flavor and freshness.",
@@ -819,6 +836,7 @@ const RecipeInfo = [
 {
     id: 18,
     name: "Chicken Rice Porridge With Century Egg",
+    vietName: "Cháo Gà Hột Vịt Bắc Thảo",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747098043/duck-10-768x687_qajkpi.jpg",
     videoId: "",
     summary: "Chicken Rice Porridge With Century Egg (Cháo Gà Hột Vịt Bắc Thảo) is a comforting Vietnamese dish made with tender shredded chicken, rich chicken broth, soft-cooked rice, and savory century eggs. Topped with fresh herbs, roasted peanuts, fried shallots, and a splash of Maggi seasoning, it’s perfect for a cozy meal.",
@@ -879,6 +897,7 @@ const RecipeInfo = [
 {
     id: 19,
     name: "Chrysanthemum Soup",
+    vietName: "Canh Tần Ô",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747099850/Capture-chyrsanthemum-300x300_bej4vx.png",
     videoId: "",
     summary: "Chrysanthemum Soup is a light and comforting Vietnamese-style soup made with tender marinated ground pork and fresh chrysanthemum greens. The aromatic broth is delicately seasoned and pairs perfectly with the slightly bitter greens, making this a soothing and nourishing dish often served as part of a family meal.",
@@ -915,7 +934,8 @@ const RecipeInfo = [
 },
 {
     id: 20,
-    name: "Crab Noodle Soup – Bún Riêu",
+    name: "Crab Noodle Soup",
+    vietName: "Bún Riêu",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747100281/20210316_191134_resized-768x576_h46neg.jpg",
     videoId: "",
     summary: "Crab Noodle Soup (Bún Riêu) is a flavorful Vietnamese dish made with a rich pork and tomato broth, tender crab mixture, and rice vermicelli noodles. It's topped with fresh herbs and often served with lime and chili paste for added zest.",
@@ -1012,7 +1032,8 @@ const RecipeInfo = [
 },
 {
     id: 21,
-    name: "Crispy Crepe With Pork & Shrimp - Bánh Xèo",
+    name: "Crispy Crepe With Pork & Shrimp",
+    vietName: "Bánh Xèo",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747168648/20210318_205609_resized-768x576_l3nvog.jpg",
     videoId: "du5FD5Rt_R8",
     summary: "Bánh Xèo is a beloved Vietnamese crispy crepe filled with savory pork belly and shrimp, pan-fried to golden perfection. Served with fresh herbs, lettuce, and a tangy fish sauce dip, it's a fun and flavorful dish meant to be wrapped and shared.",
@@ -1068,6 +1089,7 @@ const RecipeInfo = [
 {
     id: 22,
     name: "Egg And Beansprouts Stir Fry",
+    vietName: "Giá Xào Với TTrứng",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747169415/Capture-egg-300x300_yc4zsf.png",
     videoId: "iRoirx0DHM0",
     summary: "This simple Egg and Beansprouts Stir Fry is a quick, satisfying dish made with fluffy scrambled eggs, crisp beansprouts, and fresh green onions. Lightly seasoned and ready in minutes, it’s perfect as a side or a light meal on its own.",
@@ -1100,6 +1122,7 @@ const RecipeInfo = [
 {
     id: 23,
     name: "Egg And Cabbage Stir Fry",
+    vietName: "Bắp Cải Xào Trứng",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747170328/Capture-egg-and-cabbage-stir-fry-300x300_asnr2s.png",
     videoId: "45UnxkouDmI",
     summary: "Egg and Cabbage Stir Fry is a quick and comforting Vietnamese-inspired dish that's perfect for a light lunch or dinner. Soft scrambled eggs are cooked with sautéed cabbage, garlic, and green onions, then seasoned simply with salt, pepper, and optional fish sauce. Enjoy it over white rice with a splash of spicy soy sauce for an easy, satisfying meal.",
@@ -1132,6 +1155,7 @@ const RecipeInfo = [
 {
     id: 24,
     name: "Egg Rolls",
+    vietName: "Chả Giò",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747170509/Capture-egg-rolls-300x300_bscwuz.png",
     videoId: "Y0vHBAOMp3E",
     summary: "Egg Rolls are a classic appetizer that features a crispy, golden exterior filled with a savory blend of shrimp, ground pork, vegetables, and seasonings. The filling is made with a combination of flavorful ingredients like garlic, green onions, and fish sauce, then wrapped tightly in spring roll wrappers. Fried to perfection, these egg rolls are delicious on their own or served with a dipping sauce of your choice.",
@@ -1177,7 +1201,8 @@ const RecipeInfo = [
 },
 {
     id: 25,
-    name: "Fish Sauce Dip Recipe – Nuoc Mam Cham",
+    name: "Fish Sauce Dip Recipe",
+    vietName: "Nước Mắm Chấm",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747256082/20161118_192753-1-768x797_n0aeeb.jpg",
     videoId: "",
     summary: "Fish Sauce Dip (Nước Mắm Chấm) is a classic Vietnamese dipping sauce that balances salty, sweet, sour, and spicy flavors. Made with fish sauce, lime juice, sugar, garlic, and chili, it pairs perfectly with spring rolls, grilled meats, and salads. Add pickled daikon and carrots for extra texture and tang.",
@@ -1206,7 +1231,8 @@ const RecipeInfo = [
 },
 {
     id: 26,
-    name: "Fresh Spring Rolls – Gỏi Cuốn",
+    name: "Fresh Spring Rolls",
+    vietName: "Gỏi Cuốn",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747256964/20170708_023204-768x598_x53szy.jpg",
     videoId: "iCyMOwAFKDg",
     summary: "Fresh Spring Rolls – Gỏi Cuốn are a light and healthy Vietnamese dish featuring tender pork belly, shrimp, vermicelli noodles, and crisp vegetables wrapped in rice paper. Served with a savory peanut dipping sauce, these rolls are perfect as an appetizer or refreshing main course.",
@@ -1265,7 +1291,8 @@ const RecipeInfo = [
 },
 {
     id: 27,
-    name: "Grilled Beef With Squid And Shrimp (Bò Nướng Vỉ)",
+    name: "Grilled Beef With Squid And Shrimp",
+    vietName: "Bò Nướng Vỉ",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747173676/20170412_204119-768x357_gyh7jn.jpg",
     videoId: "",
     summary: "Grilled Beef With Squid And Shrimp (Bò Nướng Vỉ) is a fun and flavorful Vietnamese dish that’s perfect for gatherings. Thinly sliced beef, shrimp, and squid are grilled right at the table and wrapped in soft rice paper with fresh herbs, crunchy vegetables, and vermicelli noodles. Served with a savory anchovy pineapple dipping sauce.",
@@ -1323,6 +1350,7 @@ const RecipeInfo = [
 {
     id: 28,
     name: "Grilled Lemongrass Pork Skewers",
+    vietName: "Thịt Nướng",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747175190/20180502_211117-400x300_retsvg.jpg",
     videoId: "dhnzb3lSryg",
     summary: "Grilled Lemongrass Pork Skewers are a flavorful Vietnamese favorite made with thinly sliced pork shoulder marinated in a bold blend of fish sauce, soy sauces, lemongrass, garlic, and aromatics. Cooked on a grill pan or tabletop grill with a touch of butter, these juicy, savory skewers are perfect for serving with rice, noodles, or wrapped in lettuce and herbs.",
@@ -1367,6 +1395,7 @@ const RecipeInfo = [
 {
     id: 29,
     name: "Grilled Pork Chops",
+    vietName: "Sườn Nướng",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747178017/20161119_193229-1-768x734_kdrsne.jpg",
     videoId: "",
     summary: "Grilled Pork Chops are marinated in a savory blend of fish sauce, oyster sauce, lemongrass, and aromatics, then seared in garlic butter until perfectly charred. Topped with scallion oil for extra flavor, this Vietnamese-inspired dish is bold, juicy, and perfect for grilling season.",
@@ -1426,6 +1455,7 @@ const RecipeInfo = [
 {
     id: 30,
     name: "Ground Pork With Tofu & Tomato Soup",
+    vietName: "Canh Cà Chua Đậu Hủ",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747184337/20170502_181544-768x636_pihjba.jpg",
     videoId: "5e-srXQIA38",
     summary: "Ground Pork With Tofu & Tomato Soup is a simple and comforting Vietnamese-style soup. Made with seasoned ground pork, fresh roma tomatoes, and fried tofu, this soup offers a light yet flavorful broth that's perfect as a side or main dish. Garnished with chopped green onions and cilantro, it’s a warming bowl that pairs beautifully with steamed rice.",
@@ -1475,7 +1505,8 @@ const RecipeInfo = [
 },
 {
     id: 31,
-    name: "Lotus Root Salad With Pork And Shrimp – Gỏi Ngó Sen Tôm Thịt",
+    name: "Lotus Root Salad With Pork And Shrimp",
+    vietName: "Gỏi Ngó Sen Tôm Thịt",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747184840/salad-2_csjv9t.jpg",
     videoId: "",
     summary: "Lotus Root Salad With Pork And Shrimp is a vibrant Vietnamese dish featuring boiled shrimp and pork, pickled lotus rootlets, fresh herbs, and a sweet-tangy vinegar mix. It’s topped with peanuts, fried onions, and a flavorful fish sauce dressing.",
@@ -1526,6 +1557,7 @@ const RecipeInfo = [
 {
     id: 32,
     name: "Malabar Spinach Soup",
+    vietName: "Canh Mồng Tơi Nấu Thịt Bò Bằm",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747252600/20161104_182521-768x750_klhtfx.jpg",
     videoId: "R0m3WJNp8yU",
     summary: "Malabar Spinach Soup is a light yet flavorful Vietnamese soup made with tender Malabar spinach, savory ground pork, and soft tofu. The pork is marinated and sautéed with garlic and shallots, then simmered in a clear, seasoned broth. This comforting dish is simple to prepare and perfect for a nourishing meal.",
@@ -1576,7 +1608,8 @@ const RecipeInfo = [
 },
 {
     id: 33,
-    name: "Oxtail Pho – Phở đuôi bò",
+    name: "Oxtail Pho",
+    vietName: "Phở đuôi bò",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747279691/20210108_140744-480x640_c3x5cd.jpg",
     videoId: "CTGOQrm6eNI",
     summary: "This is my mom’s favorite kind of pho! She unfortunately passed away from cancer in 2016 at the age of 77, but I’d like to dedicate this recipe to her. She was the person who first taught me how to cook and I am fortunate to have been able to learn some of her recipes before she had left this earth. I am glad that I have a platform where I can share some of her recipes with the world so that her recipes can live on! I love you mom! Thank you for all that you have done for me. You are definitely the BEST MOM in the world and we miss you very much!",
@@ -1683,7 +1716,8 @@ const RecipeInfo = [
 },
 {
     id: 34,
-    name: "Vietnamese Oxtail Soup With Vegetables – Súp Đuôi Bò",
+    name: "Vietnamese Oxtail Soup With Vegetables",
+    vietName: "Súp Đuôi Bò",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747333502/20220205_105944_resized-768x594_upbqit.jpg",
     videoId: "",
     summary: "This Oxtail Soup is a hearty and flavorful dish made by simmering oxtail with ginger, onions, and garlic for over two hours to create a rich broth. Vegetables like carrots, potatoes, and cabbage are added toward the end for extra depth and texture. Finished with fresh herbs, crispy shallots, and a bold chili dipping sauce, this comforting soup is perfect for a cozy, satisfying meal.",
@@ -1749,7 +1783,8 @@ const RecipeInfo = [
 },
 {
     id: 35,
-    name: "Vietnamese Green Papaya Salad With Beef Jerky - Gỏi Đu Đủ Khô Bò",
+    name: "Vietnamese Green Papaya Salad With Beef Jerky",
+    vietName: "Gỏi Đu Đủ Khô Bò",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747336616/20161026_194504-1-768x654_n6mswq.jpg",
     videoId: "aAx1Hzb-Ow8",
     summary: "Vietnamese Green Papaya Salad With Beef Jerky – Gỏi Đu Đủ Khô Bò is a refreshing and savory salad that combines crisp shredded green papaya with sweet sesame beef jerky, fragrant Thai basil, and crunchy roasted peanuts. Finished with a squeeze of spicy Sriracha, this simple yet bold-flavored dish is a beloved Vietnamese street food perfect as an appetizer or light meal.",
@@ -1784,7 +1819,8 @@ const RecipeInfo = [
 },
 {
     id: 36,
-    name: "Vietnamese Green Papaya Salad DRESSING - Nước Tương Gỏi Đu Đủ Khô Bò",
+    name: "Vietnamese Green Papaya Salad Dressing",
+    vietName: "Nước Tương Gỏi Đu Đủ Khô Bò",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747340055/20161026_1520250-768x576_qk2xsa.jpg",
     videoId: "qVakORkTaY0",
     summary: "This savory and tangy Vietnamese Green Papaya Salad Dressing is the perfect companion to Gỏi Đu Đủ Khô Bò. Made with a flavorful blend of Maggi seasoning, rice vinegar, sugar, garlic, and a touch of chili heat, this sauce brings the signature sweet, salty, and spicy balance to your papaya salad. Drizzle it generously over shredded green papaya, herbs, and beef jerky for an authentic and refreshing Vietnamese street food experience.",
@@ -1809,6 +1845,7 @@ const RecipeInfo = [
 {
     id: 37,
     name: "Green Papaya Salad With Shrimp",
+    vietName: "Gỏi Đu Đủ Tôm Thịt",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747350197/20170425_223759-768x592_idfmuw.jpg",
     videoId: "",
     summary: "Green Papaya Salad With Shrimp is a vibrant Vietnamese dish that combines crisp shredded green papaya and carrots with tender shrimp, fresh herbs, and a punchy fish sauce dressing. Topped with crunchy fried shallots and roasted peanuts, this refreshing salad offers a perfect balance of textures and flavors—ideal as a light meal or a flavorful appetizer.",
@@ -1853,6 +1890,7 @@ const RecipeInfo = [
 {
     id: 38,
     name: "Peanut Sauce for Spring Rolls",
+    vietName: "Tương Chấm Gỏi Cuốn",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747351121/20161111_224329-768x605_awgkkr.jpg",
     videoId: "s9ICKQ_Lwyk",
     summary: "This easy and flavorful Peanut Sauce for Spring Rolls is the perfect dipping companion for fresh Vietnamese rolls. Made with a creamy blend of hoisin sauce, peanut butter, and a hint of sweetness, it's finished with your choice of toppings like hot sauce, crushed peanuts, or pickled vegetables for added depth and crunch.",
@@ -1884,6 +1922,7 @@ const RecipeInfo = [
 {
     id: 39,
     name: "Pickled Beansprouts",
+    vietName: "Dưa Giá",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747351591/20161107_205650-1-768x814_jrdxfx.jpg",
     videoId: "OnSQaMuhtf0",
     summary: "This Pickled Beansprouts recipe is a crisp and tangy Vietnamese side dish that pairs perfectly with savory meals. Fresh beansprouts and Chinese garlic chives are quickly pickled in a sweet and sour brine made with vinegar, sugar, salt, and pepper. Stored in a 2-quart container, it’s a refreshing and easy condiment that adds crunch and brightness to any plate.",
@@ -1918,6 +1957,7 @@ const RecipeInfo = [
 {
     id: 40,
     name: "Pork And Vegetable Soup",
+    vietName: "Canh Sườn Nấu Bông Cải Khoai Tây",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747418041/20171103_211551-768x576_simdj9.jpg",
     videoId: "5D4XesSzJpk",
     summary: "Warm, hearty, and nourishing, this Pork and Vegetable Soup is a comforting Vietnamese dish made with tender pork spare ribs simmered in a savory broth flavored with chicken soup base, salt, and vegetables. Loaded with carrots, potatoes, cabbage, and broccoli, this soup is both filling and healthy. It’s commonly served with a sprinkle of black pepper, fresh herbs like cilantro and green onions, and a spicy Maggi dipping sauce with Thai chili peppers for extra kick. Perfect for a wholesome family meal.",
@@ -1974,6 +2014,7 @@ const RecipeInfo = [
 {
     id: 41,
     name: "Pork Omelette",
+    vietName: "Chả Trứng Chiên",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747420955/20170502_180259-768x698_wbg4u3.jpg",
     videoId: "",
     summary: "This Pork Omelette is a flavorful Vietnamese-style dish packed with seasoned ground pork, eggs, and a medley of aromatics like garlic, shallots, and green onions. Enhanced with soaked vermicelli noodles and black fungus mushrooms, the filling is both hearty and texturally rich. It's pan-fried to golden perfection, making it a satisfying dish that’s quick enough for a weeknight meal yet special enough to serve guests.",
@@ -2013,7 +2054,8 @@ const RecipeInfo = [
 },
 {
     id: 42,
-    name: "Puff Pastry Pies - Pate Chaud - Bánh Patê Sô",
+    name: "Puff Pastry Pies - Pate Chaud",
+    vietName: "Bánh Patê Sô",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747422465/Capture-puff-400x400_ec5vke.png",
     videoId: "",
     summary: "This recipe for Puff Pastry Pies - Pate Chaud - Bánh Patê Sô is a Vietnamese take on savory French-inspired meat pies. Flaky, buttery puff pastry is filled with a savory mixture of ground pork, fish sauce, onions, garlic, mushrooms, and peas and carrots, then baked to golden perfection. These hand-held pies are perfect as a snack, appetizer, or light meal and are especially popular during holidays and gatherings.",
@@ -2073,7 +2115,8 @@ const RecipeInfo = [
 },
 {
     id: 43,
-    name: "Rice Noodle Stir Fry With Beef - Phở Xào Thịt Bò",
+    name: "Rice Noodle Stir Fry With Beef",
+    vietName: "Phở Xào Thịt Bò",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747422946/Pho-THUMBNAIL-768x558_a01d8t.jpg",
     videoId: "550rBzR_zDs",
     summary: "This Rice Noodle Stir Fry With Beef (Phở Xào Thịt Bò) is a savory and satisfying Vietnamese dish featuring tender marinated slices of beef stir-fried with fresh vegetables like bok choy, carrots, tomatoes, and onions. It’s all tossed together with chewy rice noodles and a rich homemade stir-fry sauce made from fish sauce, Maggi seasoning, oyster sauce, and sesame oil.",
@@ -2150,6 +2193,7 @@ const RecipeInfo = [
 {
     id: 44,
     name: "How To Boil Rice Noodles",
+    vietName: "Bún",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747424185/20161127_085656-768x620_bgt8xm.jpg",
     videoId: "qn05cMAdcnE",
     summary: "Learn how to properly cook rice stick noodles to achieve the perfect texture for Vietnamese dishes like spring rolls. This step-by-step guide covers boiling, rinsing, and drying techniques to prevent stickiness and ensure your noodles stay fresh and ready to use.",
@@ -2180,7 +2224,8 @@ const RecipeInfo = [
 },
 {
     id: 45,
-    name: "Vietnamese Roasted Catfish – Cá Nướng Da Giòn",
+    name: "Vietnamese Roasted Catfish",
+    vietName: "Cá Nướng Da Giòn",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747508073/20211016_002412_resized-1_xp9kgh.jpg",
     videoId: "QER6iPd7qZU",
     summary: "Vietnamese Roasted Catfish (Cá Nướng Da Giòn) features a whole butterflied catfish roasted until the skin is crispy and golden. It's brushed with a honey-butter glaze and served with scallion oil, roasted peanuts, and fried shallots. This dish is traditionally enjoyed with rice paper, fresh herbs, and vegetables, accompanied by a bold and tangy anchovy dipping sauce (mắm nêm) for wrapping and dipping. Perfect for a shared family-style meal.",
@@ -2245,6 +2290,7 @@ const RecipeInfo = [
 {
     id: 46,
     name: "Sauteed Pea Sprouts",
+    vietName: "Rau Đậu Hoà Lan Xào Tỏi",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747510611/20170102_213632-768x698_rnhik6.jpg",
     videoId: "rxLppxsGcQE",
     summary: "Sauteed Pea Sprouts is a quick and flavorful Vietnamese side dish made by stir-frying fresh pea sprouts with garlic in vegetable oil, then simmering them in a savory mix of water, chicken soup base, and fish sauce. Finished with a dash of black pepper, it’s a light and delicious accompaniment to any meal.",
@@ -2272,7 +2318,8 @@ const RecipeInfo = [
 },
 {
     id: 47,
-    name: "Shaking Beef – Bo Luc Lac",
+    name: "Shaking Beef",
+    vietName: "Bò Lúc Lắc",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747518328/20161121_220425-768x660_x6hnrm.jpg",
     videoId: "",
     summary: "Shaking Beef – Bò Lúc Lắc features tender cubes of marinated steak quickly seared in a hot cast iron skillet for a flavorful crust. The beef is seasoned with a savory mix of fish sauce, Maggi, oyster sauce, and garlic, then served over a fresh salad of lettuce, tomato, onion, and cilantro. A tangy vinaigrette dressing balances the richness of the meat, making this Vietnamese classic both bold and refreshing.",
@@ -2329,6 +2376,7 @@ const RecipeInfo = [
 {
     id: 48,
     name: "Spring Rolls With Chinese Sausages (Bo Bia)",
+    vietName: "Bò Bía",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747522775/20161111_214444-400x400_wqm353.jpg",
     videoId: "",
     summary: "Spring Rolls With Chinese Sausages (Bò Bía) is a savory Vietnamese snack made with dried shrimp, Chinese sausage, sautéed jicama, eggs, and fresh herbs, all wrapped in rice paper. These flavorful rolls are served with pickled vegetables and a rich peanut dipping sauce for a perfect balance of sweet, salty, and umami.",
@@ -2390,7 +2438,8 @@ const RecipeInfo = [
 },
 {
     id: 49,
-    name: "Vietnamese Steamed Egg Meatloaf Cha Trung Recipe",
+    name: "Vietnamese Steamed Egg Meatloaf",
+    vietName: "Chả Trứng",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747523232/Capture-cha-trung-400x400_yyfdvy.png",
     videoId: "K6n5VcrWw-M",
     summary: "Chả Trứng is a traditional Vietnamese steamed egg meatloaf that’s both savory and satisfying. This version combines ground pork, vermicelli bean thread noodles, and black fungus for texture, seasoned with fish sauce, garlic, shallots, and pepper. The mixture is bound together with eggs and steamed until firm, then optionally glazed with a vibrant annatto seed oil for added color. It’s a classic comfort dish often served with rice or in combination plates.",
@@ -2437,7 +2486,8 @@ const RecipeInfo = [
 },
 {
     id: 50,
-    name: "Stir Fry Bitter Melon With Eggs – Khổ Qua Xào Trứng",
+    name: "Stir Fry Bitter Melon With Eggs",
+    vietName: "Khổ Qua Xào Trứng",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747526929/20200721_193019-768x576_fsrznu.jpg",
     videoId: "YKSX2CQK1pk",
     summary: "This simple and nutritious Vietnamese dish, Khổ Qua Xào Trứng, features tender slices of bitter melon stir-fried with fluffy scrambled eggs. Lightly seasoned with fish sauce, black pepper, and green onions, it balances the melon’s distinct bitterness with rich, savory flavors. Quick to prepare and packed with health benefits, this is a comforting everyday dish often served with steamed rice.",
@@ -2471,6 +2521,7 @@ const RecipeInfo = [
 {
     id: 51,
     name: "Stir Fry Noodles",
+    vietName: "Mì Xào",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747527405/20161102_231212-768x651_nzpudu.jpg",
     videoId: "CF2Pxyfk6Tg",
     summary: "Stir Fry Noodles is a savory and satisfying dish featuring chow mein noodles tossed with marinated beef, crispy fried tofu, and fresh vegetables like bean sprouts and Chinese chives. The beef is thinly sliced and flavored with a blend of fish sauce, oyster sauce, garlic, and Maggi seasoning for a rich, umami taste. The noodles are stir-fried with a touch of sesame oil and garlic salt.",
@@ -2540,6 +2591,7 @@ const RecipeInfo = [
 {
     id: 52,
     name: "Stuffed Bell Peppers",
+    vietName: "Ớt Nhồi Thịt",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747529096/20161101_225237-768x571_mz5rch.jpg",
     videoId: "A_ahThFC9lo",
     summary: "Stuffed Bell Peppers is a flavorful Vietnamese dish made by filling halved bell peppers with a savory pork mixture seasoned with fish sauce, Maggi, and oyster sauce. The filling includes minced garlic, chopped shallots, black fungus mushrooms, and vermicelli noodles for texture. Once cooked, the peppers are served with white rice and a side of soy sauce with chopped Thai chilis for an added kick.",
@@ -2588,6 +2640,7 @@ const RecipeInfo = [
 {
     id: 53,
     name: "Sweet & Sour Fish Soup",
+    vietName: "Canh Chua Ca",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747529867/Capture-canh-chua-300x300_dvsdhd.png",
     videoId: "5AWczXuHqbU",
     summary: "Sweet & Sour Fish Soup is a vibrant Vietnamese dish known as Canh Chua Ca, featuring tender fish steaks simmered in a tangy tamarind broth. With the sweetness of pineapple, the tartness of tomatoes, and the earthy flavor of lemongrass, it’s balanced with fresh vegetables like okra and taro stems. Garnished with aromatic herbs and crispy fried onions, this comforting soup is traditionally served with steamed rice.",
@@ -2644,6 +2697,7 @@ const RecipeInfo = [
 {
     id: 54,
     name: "Tofu and Chinese Chives Soup",
+    vietName: "Canh Hẹ Dậu Hũ Thịt Bằm",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747530103/20160928_200234-400x400_vi6zok.jpg",
     videoId: "IH39RaqZPPY",
     summary: "Tofu and Chinese Chives Soup is a comforting Vietnamese soup featuring seasoned ground pork, soft tofu, and fresh Chinese chives simmered in a flavorful broth. This light yet savory soup is perfect for a nourishing meal and highlights simple, wholesome ingredients with a delicate balance of seasoning.",
@@ -2682,6 +2736,7 @@ const RecipeInfo = [
 {
     id: 55,
     name: "Vermicelli Noodles With Lemon Grass Beef",
+    vietName: "Bún Bò Xào",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747530498/Capture-bun-300x300_h3wcwc.png",
     videoId: "5_MrrgSRAwM",
     summary: "Vermicelli Noodles With Lemongrass Beef is a flavorful Vietnamese dish featuring thinly sliced eye of round beef marinated with fish sauce, Maggi seasoning, garlic salt, black pepper, sugar, and lemongrass. The beef is cooked in batches with garlic, onion, and oyster sauce, then served over rice vermicelli noodles.",
@@ -2733,6 +2788,7 @@ const RecipeInfo = [
 {
     id: 56,
     name: "Vietnamese Mayonaise",
+    vietName: "Bơ",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747530816/Capture-mayo-300x300_ysbwhd.png",
     videoId: "Ar6hlPOxKmY",
     summary: "This Vietnamese Mayonnaise recipe uses just four simple ingredients: an extra large egg yolk, vegetable oil, salt, and fresh lime juice. Slowly whisking the oil into the yolk by hand creates a rich, creamy mayo with a bright, tangy finish. Perfect as a dip, sandwich spread, or topping for your favorite Vietnamese dishes.",
@@ -2752,6 +2808,7 @@ const RecipeInfo = [
 {
     id: 57,
     name: "Vietnamese Yogurt",
+    vietName: "Sữa Chua/Da Ua",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747590038/yogurt-main-480x640_w3bl6a.jpg",
     videoId: "AF9xyxrp0nE",
     summary: "This Vietnamese Yogurt recipe creates a creamy, mildly sweet treat made from condensed milk, whole milk, and live culture yogurt. The result is smooth, tangy yogurt with a silky texture that's perfect as a snack or dessert.",
@@ -2802,7 +2859,8 @@ const RecipeInfo = [
 },
 {
     id: 58,
-    name: "Wonton Soup – Canh Hoành Thánh",
+    name: "Wonton Soup",
+    vietName: "Canh Hoành Thánh",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747590350/20161214_205444-768x651_hfr62q.jpg",
     videoId: "Sfenw_Gvioc",
     summary: "Wonton Soup – Canh Hoành Thánh is a comforting and flavorful dish made with a rich pork bone broth and homemade wontons filled with seasoned ground pork and minced shrimp. The soup is enhanced with aromatics like onion and chicken soup base, then garnished with herbs, fried shallots, and black pepper. Enjoy it on its own or with a spicy dipping sauce for an extra kick.",
@@ -2883,7 +2941,8 @@ const RecipeInfo = [
 },
 {
     id: 59,
-    name: "Yu Choy Soup (Canh Cải Ngọt)",
+    name: "Yu Choy Soup",
+    vietName: "Canh Cải Ngọt",
     display: "https://res.cloudinary.com/dsqfvqtce/image/upload/v1747591284/20161020_185334-768x675_czssqv.jpg",
     videoId: "KdR5WzGmsns",
     summary: "Yu Choy Soup (Canh Cải Ngọt) is a light and comforting Vietnamese vegetable soup made with tender yu choy greens and seasoned ground pork. The pork is marinated with fish sauce, garlic salt, and aromatics, then simmered in a savory broth infused with dried shrimp and chicken flavoring. This simple yet flavorful soup pairs perfectly with rice and makes a nourishing addition to any meal.",
