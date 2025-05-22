@@ -44,10 +44,10 @@ const Header = ({ isOpen, setIsOpen }) => {
                     <TbBowlChopsticks className="text-black w-9 h-9 2xl:w-10 2xl:h-10"></TbBowlChopsticks>
                     <button className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">Vietnamese</button>
                 </Link>
-                <div className="flex flex-row items-center gap-1">
+                <Link to="/pages/healthy-recipes" className="flex flex-row items-center gap-1">
                     <LuSalad className="text-black w-9 h-9 2xl:w-10 2xl:h-10"></LuSalad>
                     <button className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">Healthy</button>
-                </div>
+                </Link>
                 <div className="flex flex-row items-center gap-1">
                     <FaBook className="text-black w-8 h-8 2xl:w-8 2xl:h-8"></FaBook>
                     <button className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">Other</button>
