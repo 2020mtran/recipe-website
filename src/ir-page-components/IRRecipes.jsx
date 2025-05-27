@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from "react-router-dom";
-import RecipeInfo from '../vr-page-components/RecipeInfo'
+import RecipeInfo from '../vr-page-components/RecipeInfo.json'
 import Footer from '../homepage-components/Footer';
 
 const IRecipes = () => {

@@ -1,6 +1,6 @@
 import { React, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import RecipeInfo from '../vr-page-components/RecipeInfo.jsx';
+import RecipeInfo from '../vr-page-components/RecipeInfo.json';
 import Header from '../homepage-components/Header';
 import Sidebar from '../homepage-components/Sidebar';
 import Footer from '../homepage-components/Footer';
