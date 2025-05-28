@@ -9371,7 +9371,7 @@
     "name": "Ham And Cheese Puff Pastry Bake",
     "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748370633/20210807_003109_resized_lqq2gm.jpg",
     "videoId": "",
-    "summary": "",
+    "summary": "This Ham and Cheese Puff Pastry Bake is a quick and easy dish that's perfect for breakfast, brunch, or a light lunch. Made with buttery puff pastry sheets, layers of savory ham, and your favorite melty cheese, it’s brushed with an egg wash for a golden finish and baked until flaky and crisp. Delicious served warm straight from the oven!",
     "ingredients": [
       "1 Box Pepperidge Farm Puff Pastry Frozen Sheets (includes 2 ready-to-bake sheets)",
       "1 Package Kirkland Signature Extra Lean Sliced Ham",
@@ -9653,6 +9653,399 @@
         "Pour the cooked vegetables over the sweet potato noodles. Toss well to thoroughly combine. Sprinkle on some black pepper and toasted sesame seeds.",
         "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748375616/20210406_230047_resized-768x632_djqg80.jpg"
       ]
+    ]
+  },
+  {
+    "id": 105,
+    "category": "International",
+    "name": "Kikkoman Chinese Style Hot & Sour Egg Drop Soup",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378839/Capture-thumb_jsfjbr.png",
+    "videoId": "gWS07TJpsDg",
+    "summary": "This easy and flavorful soup uses Kikkoman's Hot & Sour Egg Drop Soup Mix as a base, enhanced with chicken stock, Thai chili for a spicy kick, and a freshly beaten egg for texture. It's finished with chopped cilantro, green onions, and black pepper for a comforting, restaurant-style soup you can make at home.",
+    "ingredients": [
+        "2 Packets Kikkoman Hot & Sour Egg Drop Soup Mix (0.88 oz each)",
+        "4 Cups Chicken Stock (32 oz)",
+        "1 1/2 Cups Water",
+        "1 Thai Chili Pepper (sliced)",
+        "1 Egg (beaten)",
+        "Chopped Cilantro",
+        "Chopped Green Onions",
+        "Black Pepper"
+    ],
+    "steps": [
+      ["In a medium pot pour in the chicken stock.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378686/20161023_124209-768x576_dyp3hs.jpg"],
+      ["Also pour in 1 1/2 cups of water ( If in the end the soup is too salty just add more water ).", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378690/20161023_124757-768x576_yepx1b.jpg"],
+      ["Then add in the two packets of soup mixes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378695/20161023_124952-768x728_eps6sa.jpg"],
+      ["Slice the Thai chili and add it in as well. (Optional ) Then bring the soup to a boil.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378700/20161023_125351-768x576_mdfy7v.jpg"],
+      ["Once the soup has come to a boil gradually add the beaten egg while gently stirring in one direction. Then turn off the heat.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378706/20161023_125736-768x580_tiiewe.jpg"],
+      ["Garnish with chopped green onions and cilantro. Sprinkle on some black pepper.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748378712/20161023_181732-768x677_cnyesa.jpg"],
+      ["Serve immediately while hot.", ""]
+    ]
+  },
+  {
+    "id": 106,
+    "category": "International",
+    "name": "Korean BBQ Beef Short Ribs",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748387964/Capture-korean_sdmg4d.png",
+    "videoId": "MMo13hHNN7I",
+    "summary": "Korean BBQ Beef Short Ribs are tender, flavorful ribs marinated in a savory and slightly spicy sauce. This dish uses Korean beef short ribs seared in oil and seasoned with garlic salt and crushed red pepper. They're then simmered in a rich Korean BBQ sauce with minced garlic, allowing the flavors to soak in. Perfect for a satisfying dinner, these ribs are best served with steamed rice and your favorite Korean side dishes.",
+    "ingredients": [
+        "1 Tablespoon Cooking Oil",
+        "10 Korean Beef Short Ribs",
+        "1 Teaspoon Garlic Salt",
+        "1/2 Teaspoon Crushed Red Pepper",
+        "1 Jar Korean BBQ Sauce (17.64 fl oz, Chicken & Pork Marinade)",
+        "1 1/2 Tablespoons Minced Garlic"
+    ],
+    "steps": [
+      ["Place the ribs in a large bowl and sprinkle on the garlic salt and crushed red pepper. Then mix.", ""],
+      ["Pour in half of the Korean BBQ sauce or enough to completely coat the ribs.", ""],
+      ["Throw in the minced garlic and mix.", ""],
+      ["Marinate for one hour.", ""],
+      ["Brush some cooking oil onto a grill pan and turn the heat on to Medium High.", ""],
+      ["Once the oil is hot add the beef ribs and cook until browned.", ""],
+      ["Flip the beef ribs over and reduce the heat to Medium. Then cook the beef until browned.", ""],
+      ["Transfer to a plate.", ""],
+      ["Serve with white rice and Kimchi.", ""]
+    ]
+  },
+  {
+    "id": 107,
+    "category": "International",
+    "name": "Cast Iron Skillet Lamb Chops",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396436/20210228_202723_guoqjf.jpg",
+    "videoId": "",
+    "summary": "This Cast Iron Skillet Lamb Chops recipe features a flavorful lamb rib roast seared to perfection. The lamb is brushed with olive oil, seasoned with Montreal Steak Seasoning, and pan-cooked in a cast iron skillet with butter and oil for a rich, savory crust. Serve it hot with A.1. Original Steak Sauce for an elevated dining experience.",
+    "ingredients": [
+        "2 Pounds Lamb Rib Roast (Rack) (slice between the ribs and divide into 2 groups)",
+        "1/3 Cup Extra Virgin Olive Oil (brush onto the lamb chops)",
+        "1 1/2 Tablespoons McCormick Grill Mates Montreal Steak Seasoning",
+
+        "For adding to the pan:",
+        "4 Tablespoons Extra Virgin Olive Oil (divided)",
+        "6 Tablespoons Unsalted Butter (divided)",
+
+        "For serving with:",
+        "A.1. Original Steak Sauce",
+
+        "For equipment needed:",
+        "Basting/Pastry Brush",
+        "Cooking Twine",
+        "12\" Cast Iron Skillet"
+    ],
+    "steps": [
+      ["Remove the lamb from the refrigerator 30 minutes before cooking and to allow it to come to room temperature.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388242/20210228_193620_resized-768x680_bpdykt.jpg"],
+      ["Pat dry the rack of ribs with some paper towels.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388318/20210228_194223_resized-768x610_mnaccl.jpg"],
+      ["Slice between each rib to separate the chops.", ""],
+      ["Brush some olive oil onto both sides of the chops.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388323/20210228_194714-768x413_wd8fj1.jpg"],
+      ["Sprinkle on some of the Montreal Steak seasoning to both sides of the lamb chops.", ""],
+      ["Then stand the lamb chops up and dip the fatty side of the chops onto the seasonings.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388329/20210228_195035-768x432_m8usnt.jpg"],
+      ["Separate the lamb chops into 2 groups.The lamb chops should be cooked in two batches as to not over crowd the pan. Tie 4 lamb chops together with a cooking twine.", ""],
+      ["Do the same with the leftover four lamb chops.", ""],
+      ["Heat a 12” cast iron skillet over Medium-High heat and once the pan is hot, drizzle in 2 tablespoons of olive oil and 3 tablespoons of butter. Immediately reduce the heat to Medium.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388334/20210228_200644-768x394_na2pxg.jpg"],
+      ["Place the lamb chops in the skillet standing up with the fatty edge side down.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388338/20210228_200840-768x379_zprxyl.jpg"],
+      ["Cook for about 2-3 minutes until the fat turns slightly crispy and brown.", ""],
+      ["Then cut and remove the twine.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388343/20210228_201423-768x415_t777gz.jpg"],
+      ["Sear the lamb chops. Lay the lamb chops down onto its side and let them cook undisturbed for 4 minutes until browned.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388348/20210228_201544-768x418_pgsngl.jpg"],
+      ["Turn the lamb chops over. Then use a spoon to baste the chops with the butter in the pan. Sear for 3 minutes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388353/20210228_201752-768x410_tzyr99.jpg"],
+      ["Remove from the pan and let the chops rest for 5 minutes on the counter.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748388359/20210228_191246_resized-768x714_znojcw.jpg"],
+      ["Serve with some A-1 steak sauce for dipping. (Optional)", ""],
+      ["Notes: If you'd like, you can toss in some crushed garlic cloves into the pan with the lamb chops.", ""]
+    ]
+  },
+  {
+    "id": 108,
+    "category": "International",
+    "name": "Macaroni Salad",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397013/20161113_190618-1-768x726_zzznz2.jpg",
+    "videoId": "ds7kczgy3lA",
+    "summary": "This Macaroni Salad is a hearty and colorful side dish made with tender elbow macaroni and mixed vegetables like carrots, peas, corn, and green beans. It’s dressed in a creamy blend of mayonnaise, Dijon mustard, apple cider vinegar, and a touch of sugar for balance. Lightly seasoned and topped with a sprinkle of paprika, this chilled salad is perfect for potlucks, picnics, or as a refreshing side to grilled meats.",
+    "ingredients": [
+        "For boiling:",
+        "1 Package Large Elbow Macaroni (16 oz)",
+        "1 Tablespoon Salt",
+
+        "For defrosting:",
+        "1 Package Frozen Mixed Vegetables (16 oz – includes carrots, peas, corn, and green beans)",
+
+        "For the dressing:",
+        "2 Cups Best Foods Mayonnaise",
+        "1 Tablespoon Apple Cider Vinegar",
+        "1 Tablespoon + 1/2 Teaspoon Dijon Mustard with Chardonnay",
+        "3 Teaspoons Sugar",
+        "1/2 Teaspoon Salt",
+        "1/8 Teaspoon Black Pepper",
+
+        "For topping:",
+        "Paprika (optional)"
+    ],
+    "steps": [
+      ["Fill a pot with some water and add 1 tablespoon of salt. Bring to a boil.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396937/20161113_183038-768x536_spaid7.jpg"],
+      ["Once the water has come to a boil pour in the macaroni and cook for 9 minutes. Stir occasionally.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396941/20161113_183906-768x576_qbkgar.jpg"],
+      ["Drain and rinse with cold water to cool the noodles down. Be sure to toss the noodles a few times to remove any excess water. Then set aside for 30 minutes to allow the noodles to dry.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396945/20161113_184722-768x672_nvhqhr.jpg"],
+      ["Remove the lima beans from the bag of vegetables and save for some other use or discard. If you like lima beans then you can just leave them in the mix.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396950/DSC05885-768x515_x161dd.jpg"],
+      ["Pour the frozen vegetables into a bowl and fill it with water. Microwave for 5 minutes to defrost the vegetables.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396954/20161113_183151-768x576_iknp1j.jpg"],
+      ["Drain and set aside for 30 minutes to allow the vegetables to dry.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396959/20161113_183401-768x613_d3qyxj.jpg"],
+      ["In a bowl add in the mayonaise.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396963/20161113_161405-768x576_zymruc.jpg"],
+      ["Then add in the apple cider vinegar. Stir to combine.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396968/20161113_183621-768x584_ynxb7g.jpg"],
+      ["Also add in the dijon mustard with chardonnay. Stir to combine.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396973/20161113_183747-768x649_sjrzmm.jpg"],
+      ["Add the sugar. Stir to dissolve the sugar.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396978/20161113_162427-768x576_lwkugb.jpg"],
+      ["Add the salt.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396982/20161113_184520-768x586_tdszft.jpg"],
+      ["And lastly add the black pepper. Combine well. Place in the refrigerator for 30 minutes to chill.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396987/20161113_162900-768x576_dhjmdb.jpg"],
+      ["Once the noodles have dried, pour the cooked macaroni into a large mixing bowl.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396992/20161113_163512-768x576_fa1qyk.jpg"],
+      ["Add in only 1 to 1 1//3 cup of the dressing and reserve the rest for later. Do not add all of it in at this time. Toss to coat the macaroni with the dressing.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748396997/20161113_163838-768x576_wqetyu.jpg"],
+      ["Next add in the vegetables and toss to combine.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397002/20161113_185737-768x576_fauwll.jpg"],
+      ["Season with salt and black pepper. (Optional)", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397008/20161113_164458-768x576_kt004b.jpg"],
+      ["Sprinkle on some paprika. (Optional)", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397013/20161113_190618-1-768x726_zzznz2.jpg"],
+      ["Cover and chill in the refrigerator for at least 2 hours.", ""],
+      ["The macaroni salad will dry up a bit in the refrigerator so right before serving, pour the remainder of the dressing onto the salad. If there is not enough dressing, you can always make another batch and add it to the bowl of macaroni.", ""]
+    ]
+  },
+  {
+    "id": 109,
+    "category": "International",
+    "name": "McDonald’s Egg McMuffin Sandwich",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397801/20170811_100906-768x509_oqkjzt.jpg",
+    "videoId": "RV_HcI5G0yE",
+    "summary": "This homemade McDonald’s Egg McMuffin Sandwich recipe shows you how to recreate the fast food classic in your own kitchen. It features a toasted English muffin layered with Canadian bacon, a perfectly shaped fried egg, and a slice of melted American cheese. With a few simple tools like a ring mold and a small frying pan, you can enjoy this iconic breakfast sandwich fresh and hot right at home.",
+    "ingredients": [
+        "1 English Muffin",
+        "1 Slice Canadian Bacon",
+        "Olive Oil Cooking Spray",
+        "1 Large Egg",
+        "1 1/2 Tablespoons Water",
+        "1 Tablespoon Butter (melted)",
+        "1 Slice American Cheese",
+
+        "For supplies needed:",
+        "Bread Toaster",
+        "Pastry Brush or Basting Brush",
+        "7 1/2\" Fry Pan with Lid (small fry pan)",
+        "Ring Mold or a Wide Mouth Mason Jar Lid Ring",
+        "A Pair of Tongs"
+    ],
+    "steps": [
+      ["Melt the butter in the microwave. Set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397727/20170811_190358-768x579_ylh0o9.jpg"],
+      ["Split the muffin in half and lightly toast the muffins in a bread toaster.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397732/20170811_190321-768x396_keurpt.jpg"],
+      ["Remove the toasted muffins from the toaster and brush some of the melted butter onto both halves of the muffins.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397737/20170811_190125-768x278_taqmu0.jpg"],
+      ["Then place a slice of cheese onto the bottom muffin and set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397741/20170811_185807-768x331_imixsf.jpg"],
+      ["Lay a ring mold in the center of the pan and spray the ring mold and pan with the cooking spray. If using a mason jar lid turn it upside down then coat with the cooking spray. Then turn your heat on to Medium.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397746/20170811_185848-768x453_i0kofj.jpg"],
+      ["Once the pan is warm, crack in the egg and then break the yolk.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397750/20170811_185722-768x470_nuvmmp.jpg"],
+      ["Immediately pour in the water.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397755/20170811_185627-768x428_y8cppx.jpg"],
+      ["Cover the pan with a lid.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397759/20170811_185531-768x549_uapwso.jpg"],
+      ["Cook for about 2 minutes or until the egg is set. Most or all of the water should have evaporated. Turn off the heat. Use a knife to go around the edge of the ring mold to loosen the egg from the ring mold. Season with a sprinkle of salt and black pepper.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397764/20170811_185450-768x448_xece8f.jpg"],
+      ["Use a tong to pick up the ring mold and flip the egg over. Remove the ring mold from the pan.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397768/20170811_185409-768x435_skfvxd.jpg"],
+      ["Place the egg on top of the slice of toasted muffin with cheese. Set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397777/20170811_185211-768x226_lbwoji.jpg"],
+      ["Wipe the pan clean. Then brush some melted butter onto the pan and turn your heat on to Medium-Low. Place the canadian bacon in the pan.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397782/20170811_185026-768x516_cmq7c6.jpg"],
+      ["Cook both sides of the canadian bacon until slightly browned.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397787/20170811_184940-768x583_b92coh.jpg"],
+      ["Place the cooked canadian bacon on top of the cooked egg.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397792/20170811_151229-768x301_b6677p.jpg"],
+      ["Lastly place the other half of the english muffin on top of the canadian bacon.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397797/20170811_102234-768x607_hkwcgu.jpg"],
+      ["Serve immediately while still warm.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748397801/20170811_100906-768x509_oqkjzt.jpg"]
+    ]
+  },
+  {
+    "id": 110,
+    "category": "International",
+    "name": "Massaged Kale Salad",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398415/kake_s8hf9l.jpg",
+    "videoId": "",
+    "summary": "This Massaged Kale Salad is a refreshing and nutrient-packed dish made with chopped kale massaged in tangy balsamic vinaigrette. It’s sweetened naturally with mandarin oranges and dried cranberries, then topped with crunchy honey roasted sliced almonds for texture. A simple yet flavorful salad perfect as a side or light meal.",
+    "ingredients": [
+        "1 Package of Chopped Kale (8 oz)",
+        "1 Bottle of Newman’s Own Balsamic Vinaigrette Dressing (16 oz)",
+        "1 Package of Dole Mandarin Orange Cups in 100% Fruit Juice (drained)",
+        "A handful of Dried Cranberries",
+        "A handful of Honey Roasted Sliced Almonds"
+    ],
+    "steps": [
+      ["Drain the juice from 1 of the mandarin orange cups and set the mandarins aside.", ""],
+      ["Pour the chopped kale into a large mixing bowl.", ""],
+      ["Discard any stems as they are hard to chew.", ""],
+      ["Add a splash ( 2-3 tablespoons) of Balsamic Vinaigrette dressing. Adding in a little bit of the dressing will help wilt the kale.", ""],
+      ["Massage the kale with your hands by grabbing a bunch and squeezing them for about 2-3 minutes or until they have softened. They will shrink down in size.", ""],
+      ["Then add in a handful of dried cranberries and massage the salad for about a minute until the dried cranberries are slightly softened.", ""],
+      ["Pour in a little bit more of the Balsamic Vinaigrette dressing just enough to coat the entire salad.", ""],
+      ["Then add in a handful of the Dole mandarin oranges and a handful of the honey roasted sliced almonds.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398408/closeup_djy1g3.jpg"],
+      ["Use a pair of tongs to toss the salad.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398415/kake_s8hf9l.jpg"],
+      ["Notes: This recipe is meant to serve as a side salad. In this recipe 8 ounces of kale is enough for 4 people as a SIDE dish. Just figure 2 ounces of kale per person.", ""]
+    ]
+  },
+  {
+    "id": 111,
+    "category": "International",
+    "name": "Mexican Salad",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398687/20170705_165756-768x576_b1unwn.jpg",
+    "videoId": "",
+    "summary": "Mexican Salad is a quick and flavorful dish made with crisp iceberg lettuce, shredded Mexican blend cheese, pico de gallo, chopped cilantro, tri-color tortilla strips, sour cream, and creamy avocado. It’s topped off with a drizzle of ranch dressing and a splash of hot sauce for a refreshing yet zesty meal or side.",
+    "ingredients": [
+        "1 Package of Fresh Express Shreds Iceberg Lettuce (8 oz)",
+        "A handful or two of Shredded Mexican Blend Cheese",
+        "1/2 Cup Pico De Gallo",
+        "A handful of Chopped Cilantro",
+        "1/2 Cup Tri-Color Tortilla Strips",
+        "A dollop of Sour Cream",
+        "1/2 of an Avocado (cubed)",
+
+        "For serving with:",
+        "Ranch Dressing",
+        "Hot Sauce"
+    ],
+    "steps": [
+      ["Pour the entire package of shredded lettuce into a large bowl.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398671/20170705_190705-768x683_l1kop0.jpg"],
+      ["Add a handful or two of the blended Mexican shredded cheese to the salad and 1/2 a cup of pico de gallo.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398676/20170705_190816-768x653_x63jb4.jpg"],
+      ["Also add in a handful of chopped cilantro and 1/2 a cup of the tri-color tortilla chips.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398682/20170705_191007-768x660_fxlhk1.jpg"],
+      ["Lastly add a dollop of sour cream and some chopped avocadoes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398687/20170705_165756-768x576_b1unwn.jpg"],
+      ["Serve with Ranch dressing or hot sauce.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398692/20170705_165811-768x1024_uuuqfr.jpg"]
+    ]
+  },
+  {
+    "id": 112,
+    "category": "International",
+    "name": "Oven Baked Lobster Tails",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398938/Capture-lobster_pfau33.png",
+    "videoId": "OoK6gr-VrfA",
+    "summary": "Oven Baked Lobster Tails are tender and flavorful lobster tails baked to perfection with a simple seasoning of salt, melted butter, and paprika or seafood seasoning. Served with fresh lemon and extra melted butter for dipping, this dish offers a delicious, elegant seafood experience that’s easy to prepare at home.",
+    "ingredients": [
+        "2 Lobster Tails",
+        "A round of Salt",
+        "3 Tablespoons Butter (melted)",
+        "Olive Oil Cooking Spray",
+        "Ground Paprika or Seafood Seasoning",
+
+        "For dipping:",
+        "Fresh Squeezed Lemons",
+        "Melted Butter"
+    ],
+    "steps": [
+      ["Pre-heat the oven at 375 degrees.", ""],
+      ["Place a large bowl in the sink and fill it with some cold water. Then add a round of salt. Wash the lobster tails in the salted water. Then give the lobster tails a quick rinse.", ""],
+      ["Use a kitchen knife to cut a slit right down the center of the back of the lobster tail. Use your hands to pull the lobster meat through the slit to have the lobster meat lay on top of the shell.", ""],
+      ["Once the meat is laying on top of the shell use a knife to cut a slit down the center of the lobster meat.", ""],
+      ["Place the lobster tails on a plate and brush the melted butter over the lobster meat. Then sprinkle on some paprika or seafood seasoning. If you are going to use seafood seasoning then only give it a light sprinkle as it can be a bit salty.", ""],
+      ["Spray the lobster meat with the cooking olive oil spray.", ""],
+      ["Line a baking tray with aluminum foil. Spray the lined baking tray with the cooking spray. Then place the lobster tails on the baking tray and transfer the tray to the pre-heated oven.", ""],
+      ["Check on the lobster tails after baking them for 20 minutes. Remove the lobster tails from the oven once they are no longer opaque. If they are still opaque continue baking them for another 10 to 15 minutes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748398938/Capture-lobster_pfau33.png"],
+      ["Serve with a side of fresh squeezed yellow lemon juice and some melted butter for dipping. Yellow lemons are not always available so in that case they can be replaced with limes.", ""]
+    ]
+  },
+  {
+    "id": 113,
+    "category": "International",
+    "name": "Pasta Primavera",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399716/final-1_dn6v8n.jpg",
+    "videoId": "LcAa9Q1u40o",
+    "summary": "Pasta Primavera is a hearty and colorful baked pasta dish loaded with sautéed vegetables and topped with melty mozzarella cheese. Penne pasta is cooked and tossed with a rich, homemade Alfredo sauce, then combined with mushrooms, onions, tomatoes, and spinach for a vibrant, satisfying meal. Perfect for a vegetarian main or a crowd-pleasing side.",
+    "ingredients": [
+        "For boiling the pasta:",
+        "1 LB Penne Pasta",
+        "1 Tablespoon Salt",
+
+        "For adding to the baking pan:",
+        "2 Tablespoons Butter",
+
+        "For the Alfredo sauce:",
+        "4 Tablespoons Butter",
+        "3 Garlic Cloves (chopped)",
+        "3 Tablespoons All Purpose Flour",
+        "3 Cups Half & Half",
+        "1/2 Cup Grated Parmesan Cheese",
+        "1 Teaspoon Garlic Salt",
+        "1/8 Teaspoon Black Pepper",
+
+        "For sautéing the vegetables:",
+        "2 Tablespoons Olive Oil (divided)",
+        "3 Garlic Cloves (chopped)",
+        "3 Cups Button Mushrooms (sliced)",
+        "1/2 of a Large Onion (thinly sliced)",
+        "10 Oz Cherry Tomatoes (sliced in half)",
+        "5 Oz Fresh Spinach",
+        "1/4 Teaspoon Salt",
+        "1/8 Teaspoon Black Pepper",
+
+        "For topping:",
+        "16 Oz Block of Mozzarella Cheese (grated – mix 1 cup into the pasta and top with the remaining cheese)"
+    ],
+    "steps": [
+      ["Cook the noodles. Bring a pot of water to boil. Then add 1 tablespoon of salt. Pour in the pasta and cook until al dente.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399133/20200422_005844-768x496_yee8ai.jpg"],
+      ["Drain the pasta. There is no need to rinse the pasta.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399603/pasta-768x691_byo3wp.jpg"],
+      ["Add 2 tablespoons of butter to a baking pan.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399608/20200422_005056-768x432_hxfkdf.jpg"],
+      ["Then dump the cooked pasta into the pan. Mix to coat the pasta with the butter to prevent them from sticking to one another. Set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399613/20200422_010101-768x432_bajjqs.jpg"],
+      ["Make the alfredo sauce. On medium heat, melt the butter then toss in the garlic. Cook the garlic until fragrant.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399618/20200422_011656-768x496_se4d7m.jpg"],
+      ["Reduce the heat to LOW then add the flour to the pan. Whisk until the two ingredients are combined. They should start to form lumps", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399622/20200422_011732-768x576_nnsbyp.jpg"],
+      ["Gradually pour in the half & half and whisk continuously. Add just a little bit of milk at first about 1/2 a cup. Continuously whisk until there are no more lumps and the flour mixture is smooth.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399627/20200422_011800-768x513_r2qjh7.jpg"],
+      ["Add in the grated parmesan cheese and stir.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399632/20200422_011913-768x626_yor6kh.jpg"],
+      ["Add in 1 teaspoon of garlic salt.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399637/20200422_011946-768x519_x31iex.jpg"],
+      ["Add in 1/8 teaspoon of black pepper and stir.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399642/20200422_012015-768x508_yj0cfj.jpg"],
+      ["Bring the sauce to a boil, then reduce the heat and simmer until the sauce has thickened. Stirring occasionally.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399647/20200422_012450-768x522_h7qvur.jpg"],
+      ["The whole process of making the alfredo sauce should take about 10 minutes. Then set the sauce aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399651/20200422_012605-768x519_gzszyi.jpg"],
+      ["Saute the veggies. Heat up a cast iron skillet on MEDIUM HIGH heat. Once the pan is hot, add in the olive oil and wait 15 seconds for the oil to warm up. Then add in the mushrooms, garlic and onions. Give it a quick stir . If the bottom of the pan is dry, you can add another 1 tablespoon of olive oil to the pan.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399657/mushrooms_p5neyo.jpg"],
+      ["Then leave the mushrooms, garlic and onions alone in the pan until it has browned on one side. When the bottom of the veggies are slightly browned, give them a toss.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399662/20200422_013836-768x498_eazioo.jpg"],
+      ["Then add in the cherry tomatoes. Toss and cook until slightly soft. Season with 1/4 teaspoon of salt and 1/8 teaspoon of black pepper.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399668/20200422_013819-768x534_lo1s4l.jpg"],
+      ["Turn off the heat and add in the spinach. Toss until the spinach is slightly wilted.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399674/20200422_013715-768x525_mgeygl.jpg"],
+      ["Then transfer to a baking tray to cool.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399679/20200422_013955-768x561_njttv6.jpg"],
+      ["Time to put it all together ! Warm up the alfredo sauce in the microwave for 30 seconds to a minute . Pour the alfredo sauce over the pasta and use a large spoon to mix. You may not need to use all of the alfredo sauce. It will depend on how saucy you like your pasta to be. In the video I had about 1 cup of alfredo sauce remaining.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399684/20200422_014137-768x318_bdtxix.jpg"],
+      ["Add 1 cup of the shredded mozarella cheese and mix.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399689/20200422_014452-768x318_m0rimu.jpg"],
+      ["Add the cooked vegetables. Scoop out the vegetables only and be sure to leave any liquid on the bottom of the pan behind. Discard the liquid. Gently mix the pasta and vegetables with your hands.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399694/20200422_014901-768x306_uoe82k.jpg"],
+      ["Season with ¼ of teaspoon of salt and ⅛ teaspoon of black pepper. Mix for the last time.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399699/20200422_014944-768x469_n6whdj.jpg"],
+      ["Completely cover the pasta with the remaining MOZARELLA cheese.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399705/20200422_052957-768x625_jl6ka5.jpg"],
+      ["Roast in the oven at 450 degrees until the cheese is browned.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399711/20200422_053535-768x520_h15e4h.jpg"],
+      ["Serve immediately.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748399716/final-1_dn6v8n.jpg"],
+      ["Note: Please note that if you are going to bake the pasta in the 8'' aluminium pans then there is enough pasta to fill 3 of them.", ""]
+    ]
+  },
+  {
+    "id": 114,
+    "category": "International",
+    "name": "Perfect Hard Boiled Eggs",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400159/20170504_110902-768x576_gn1db5.jpg",
+    "videoId": "",
+    "summary": "Perfect Hard Boiled Eggs are easy to make and ideal for meal prep, salads, or snacks. This simple method ensures tender whites and creamy yolks every time—just add eggs to cold water, bring to a boil, then let them sit covered off the heat. A kitchen basic done right.",
+    "ingredients": [
+        "8 large eggs",
+        "Cold water"
+    ],
+    "steps": [
+      ["In a saucepan place the eggs in a single layer. Then fill it with enough cold water to cover the eggs.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400131/20170504_093720-768x649_l6iffg.jpg"],
+      ["Bring to a boil over medium-high heat. Once it has come to a boil immediately turn off the heat.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400136/20170504_093642-1-768x576_eq60si.jpg"],
+      ["Cover the saucepan with a lid and let the eggs sit in the pan for 12 minutes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400142/20170504_093540-768x663_osnvev.jpg"],
+      ["Drain the eggs then place under cold running water until slightly cooled.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400146/20170504_093443-768x659_btwnfx.jpg"],
+      ["Then transfer the eggs to a bowl of cold water until completely cooled.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400150/20170504_093345-768x576_aetdsq.jpg"],
+      ["Gently crack and peel the eggs. Start peeling at the very bottom of the eggs at the air pocket and peel under cool running water.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400155/20170504_110616-768x521_ctf6sv.jpg"],
+      ["Now you will have some perfectly cooked eggs! The yolks will be smooth and creamy with no green edges!", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400159/20170504_110902-768x576_gn1db5.jpg"]
+    ]
+  },
+  {
+    "id": 115,
+    "category": "International",
+    "name": "Portebella Pizza",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401029/20170706_193207-768x576_ugrbs5.jpg",
+    "videoId": "",
+    "summary": "Portebella Pizza is a delicious low-carb alternative to traditional pizza, using large portabella mushroom caps as the base. The mushrooms are brushed with olive oil, then topped with pizza sauce, shredded mozzarella cheese, pepperoni, and fresh basil. Baked until the cheese is melted and bubbly, this quick and savory dish is perfect for a healthy meal or appetizer.",
+    "ingredients": [
+        "8 Portabella Caps",
+        "3 Tablespoons Olive Oil (to coat the mushrooms)",
+        "1 Cup Pizza Sauce (homemade or store-bought)",
+        "8 oz Block of Mozzarella Cheese (shredded from the block)",
+        "1.75 oz Package Hormel Pepperoni",
+        "1 Bunch of Fresh Basil (chopped)"
+    ],
+    "steps": [
+      ["Wash the mushrooms.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400968/20170706_134857-768x576_qqc6xd.jpg"],
+      ["Pat the mushrooms dry with paper towels. Then remove the stem and gills.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400972/20170706_195248-768x576_cey0mk.jpg"],
+      ["Brush olive oil onto the top and bottom of the mushrooms.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400976/20170706_195131-768x575_u1ko2a.jpg"],
+      ["Grate the block of mozarella cheese. Please do not use pre-shredded cheese as it sometimes does not melt as well. Set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400980/20170706_195454-768x474_tp4vud.jpg"],
+      ["Now add spoon some pizza sauce onto each of the mushrooms.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400984/20170706_194713-768x576_q4mi0s.jpg"],
+      ["Next add a handful of cheese. Do not add too much cheese onto the mushrooms as it can overflow when cooking in the oven.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400989/20170706_194558-768x537_rnvuvx.jpg"],
+      ["Lastly top with the pepperoni slices.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400993/20170706_194501-768x576_pejrgy.jpg"],
+      ["Pre-heat oven to 425 degrees.", ""],
+      ["Brush some olive oil onto the surface of the grill pan.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748400998/20170706_195426-768x576_sov1ai.jpg"],
+      ["Transfer the mushrooms to a grill pan or baking dish. If using a baking dish the mushrooms will release some liquid as it cooks in the oven. After it is done cooking in the oven you may want to place the mushrooms on a plate lined with paper towels to soak up some of the liquid to dry the bottoms of the mushrooms.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401003/20170706_194343-768x576_jr9txv.jpg"],
+      ["Place the grill pan in the oven and cook for 20 minutes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401009/20170706_194105-768x461_cb3swb.jpg"],
+      ["While the mushrooms are baking chop the fresh basil and set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401013/20170705_1117030-1-e1499742625708-768x1024_yby0vj.jpg"],
+      ["After the mushrooms have baked for 20 minutes, increase the heat to 500 degrees and cook for another 5 minutes.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401019/20170706_193935-768x466_hqgt9s.jpg"],
+      ["If the top of the cheese has not browned then you can place the mushrooms under the broiler for 30 seconds to a minute until they have slightly browned. This step is optional.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401024/20170706_193812-768x576_w90aan.jpg"],
+      ["Remove the mushrooms from the oven and top with the chopped basils.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401029/20170706_193207-768x576_ugrbs5.jpg"],
+      ["Serve immediately while warm.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748401034/20170706_193331-768x571_t7afi5.jpg"]
     ]
   }
 ]
