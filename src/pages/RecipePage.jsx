@@ -18,7 +18,7 @@ const RecipePage = () => {
     }
 
     return (
-        <div className='flex flex-col items-center'>
+        <div className='flex flex-col items-center bg-snowpink'>
             <Header isOpen={isOpen} setIsOpen={setIsOpen} />
             <Sidebar isOpen={isOpen} setIsOpen={setIsOpen} />
             <div className='flex flex-row'>
