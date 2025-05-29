@@ -10671,7 +10671,7 @@
         "1 Tablespoon Fresh Squeezed Lime Juice (from half a lime)",
         "1 Bunch Thai Basil",
 
-        "To add to the hot pot:",
+        "For adding to the hot pot:",
         "1 Napa Cabbage",
         "1 Package Bok Choy",
         "1 Package Button Mushrooms",
@@ -10684,7 +10684,7 @@
         "16 Shrimp With Head On and Shelled (trim whiskers and legs, deveined)",
         "1 Package Fish Balls (11 oz)",
 
-        "Also needed:",
+        "For also needed:",
         "1 Package Vermicelli Noodles (Rice Stick, 2 lbs)",
 
         "For the dipping sauce:",
@@ -10732,6 +10732,182 @@
       ["Bring the broth to a boil. First add in the items that will take the longest to cook like the corn, squid, fish balls and mushrooms.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748479401/20170217_213251-768x793_re4k3v.jpg"],
       ["Let the broth come back to a boil then add in the rest of the ingredients. Right before serving squeeze in a wedge or two of lime juice. Taste and adjust the soup.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748479405/20170217_203328-768x656_rdkglo.jpg"],
       ["Then serve the broth over a bowl of Vermicelli Noodles.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748479410/20170217_202440-1-768x524_ugiwwz.jpg"]
+    ]
+  },
+  {
+    "id": 130,
+    "category": "International",
+    "name": "Tuna Sandwich",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484711/20161127_133321-768x873_idyyiz.jpg",
+    "videoId": "wU1qZuFTOh4",
+    "summary": "The Tuna Sandwich is a quick and satisfying meal made with canned tuna mixed with mayonnaise, chopped celery, onions, sweet relish, salt, and black pepper. Served on lightly toasted white bread, it's optionally topped with lettuce leaves for added crunch. Pair it with dill pickles, baby carrots, or celery sticks for a simple and refreshing lunch or snack.",
+    "ingredients": [
+        "2 Cans of Tuna in Water (7 oz each)",
+        "1/2 Cup Best Foods Mayonnaise",
+        "3 Tablespoons Chopped Celery",
+        "1/4 Cup Chopped Onions",
+        "1 Tablespoon Sweet Relish",
+        "1/4 Teaspoon Salt",
+        "1/4 Teaspoon Black Pepper",
+        
+        "Optional additions:",
+        "Lettuce Leaves",
+        
+        "For serving with:",
+        "6 Slices of White Bread (lightly toasted)",
+        "Dill Pickles (optional)",
+        "Baby Carrots (optional)",
+        "Celery Sticks (optional)"
+    ],
+    "steps": [
+      ["Drain the tuna. Pour the tuna into a colander. Use a spoon to press down on the tuna to remove the excess water.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484665/20161127_114259-768x576_mwrgan.jpg"],
+      ["Transfer the tuna to a bowl.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484678/20161127_114809-768x576_t5rqwj.jpg"],
+      ["Then add in 1/2 a cup of mayonaise. Add more mayonaise if necessary but add in a tablespoon at a time until you are satisfied with the amount of mayo in your tuna salad. Mix to combine.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484682/20161127_115126-768x576_sjrdgd.jpg"],
+      ["Add in the chopped onions.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484688/20161127_141308-768x576_zbuzgb.jpg"],
+      ["Add in the chopped celery.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484692/20161127_141201-768x576_nxf2ga.jpg"],
+      ["Add in the sweet relish.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484697/20161127_141103-768x576_heyagp.jpg"],
+      ["Add the salt and black pepper.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484701/20161127_140913-768x576_kkyxdl.jpg"],
+      ["Mix all ingredients together.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484706/20161127_140757-768x576_eqql0l.jpg"],
+      ["Lightly toast 6 slices of white bread . Then spread the tuna mixture onto 3 of the bread slices . Sprinkle some black pepper onto the tuna mixture and place the remaining 3 slices of bread on top. You can serve the sandwich as is or you can also add a lettuce leaf to your sandwich.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748484711/20161127_133321-768x873_idyyiz.jpg"],
+      ["Serve with a dill pickle spear or some baby carrots & celery sticks.", ""]
+    ]
+  },
+  {
+    "id": 131,
+    "category": "International",
+    "name": "Cook A Turkey In Roaster Oven",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485847/Capture-turkey15-768x622_n9ndgj.png",
+    "videoId": "",
+    "summary": "This recipe shows you how to cook a whole turkey using a roaster oven. It keeps the turkey moist and flavorful by using chicken broth for added moisture, a coating of olive oil spray for even browning, and butter for rich flavor. Perfect for holiday meals or special gatherings.",
+    "ingredients": [
+        "32 oz Chicken Broth",
+        "Olive Oil Cooking Spray",
+        "Butter"
+    ],
+    "steps": [
+      ["Scrunch up some aluminum foil, roll them up and place them under the rack. This will raise the turkey up so that it does not touch the liquid at the bottom of the turkey roaster.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485789/Capture-turkey-2-768x345_vhahzr.png"],
+      ["Pour 32 oz of chicken broth at the bottom of the roaster oven.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485794/Capture-turkey-4-768x354_qbp7ma.png"],
+      ["Cover the roaster oven with the lid and pre-heat at 350 degrees.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485799/Capture-turkey-3-768x340_wg2k8q.png"],
+      ["Spray the entire turkey on the bottom and top with olive oil.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485804/Capture-turkey-5-768x424_y7se65.png"],
+      ["Place the ends of the legs in the plastic holder to keep the legs together.", ""],
+      ["If you're going to stuff the cavity with stuffing them be sure to give it some room to expand.", ""],
+      ["Place the turkey on the rack.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485809/Capture-turkey-6-1-768x412_g2gtl8.png"],
+      ["Scoop any solid butter with the marinade from the aluminium pan and microwave until melted. Discard any blood.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485814/Capture-turkey-8-768x415_g8hfkr.png"],
+      ["Pour the melted butter over the turkey.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485822/Capture-turkey-10-768x422_avjlek.png"],
+      ["Then cover the roaster oven with the lid. You may want to find something heavy to place on top of the lid to completely seal it . For and 18-19 pound turkey , roast the turkey for 2 1/2 hours.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485829/Capture-turkey-11-768x417_bk1jpp.png"],
+      ["After cooking for 2 1/2 hours uncover the roaster oven and spread some butter evenly over the entire turkey . Then transfer to a regular oven to brown the top of the turkey.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485835/Capture-turkey-12-768x423_elozqe.png"],
+      ["Pre-heat the regular oven at 500 degrees and cook for about 45 to 1 hour until the top of the turkey is nicely browned. You should always use a thermometer to check the temperature of the turkey for doneness. The turkey is ready to serve once it has reached a minimum temperature of 165 in the thigh .", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485842/Capture-turkey-14-768x418_mlpkfc.png"],
+      ["Remove the turkey from the oven and let it rest on the table for at least 30 minutes before you carve into it.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748485847/Capture-turkey15-768x622_n9ndgj.png"],
+      ["Notes: For an 18-19 pound turkey, cook in the roaster oven for 2 1/2 hours then transfer to a regular oven and roast for 1 hour so the total cooking time is 3 1/2 hours.", ""]
+    ]
+  },
+  {
+    "id": 132,
+    "category": "International",
+    "name": "Turkey Marinade",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748486118/Capture-turkey-marinade_yvsv2z.png",
+    "videoId": "28h1lFfHv7w",
+    "summary": "Turkey Marinade is a simple yet flavorful mixture designed to enhance your holiday bird. Made with butter, poultry seasoning, garlic salt, black pepper, and a touch of olive oil, this marinade helps keep the turkey moist while infusing it with classic savory notes. Perfect for preparing the turkey before roasting or cooking in a roaster oven.",
+    "ingredients": [
+        "2 Sticks of Butter",
+        "1 Teaspoon Poultry Seasoning",
+        "1/2 Teaspoon Garlic Salt",
+        "1/4 Teaspoon Black Pepper",
+        "Olive Oil Spray or Liquid Olive Oil"
+    ],
+    "steps": [
+      ["Remove the neck and the bag of giblets inside of the body cavity. Also check the neck cavity and remove anything that is in there as well.", ""],
+      ["Put a bowl big enough to hold the turkey and place it in the sink. Then place the turkey into the bowl. Pour some salt over the turkey and wash the turkey with the salted water. Flip the turkey over and wash the other side as well. Pour some salt into the cavity and wash the insides of the cavity . Rinse the turkey inside and out. Then pat dry the turkey with some paper towels.", ""],
+      ["In a bowl melt the butter. Add in the poultry seasoning, garlic salt and black pepper. Stir to combine. Spoon the melted butter onto the skin of the turkey. Also spoon some of the melted butter mixture inside the body cavity. Use your hands to rub the butter mixture onto the skin of the turkey. Be sure to get some of the butter mixture under the skin as well.", ""],
+      ["Marinate for 2 to 3 days before cooking the turkey.", ""],
+      ["Before placing the turkey into the oven be sure to spray the turkey with an Olive Oil Cooking Spray or you can use a liquid Olive Oil and just rub it onto the turkey.", ""],
+      ["If you need to know how to roast a turkey the recipe is also available on my website. I'll show you how to make a moist roasted turkey!", ""],
+      ["Notes: This marinade is for an 18 pound turkey.", ""]
+    ]
+  },
+  {
+    "id": 133,
+    "category": "International",
+    "name": "Tukey and Provolone Sandwich",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487142/20220629_005140-768x521_haypwc.jpg",
+    "videoId": "",
+    "summary": "This Turkey and Provolone Sandwich is a quick and flavorful meal using artisan ciabatta rolls or tortas, layered with basil pesto, creamy mayonnaise, deli-sliced organic turkey, fresh tomato and red onion slices, and topped with provolone or fresh mozzarella cheese. Perfect for a satisfying lunch or easy dinner.",
+    "ingredients": [
+        "1 Bag Ciabatta (Artisan) Rolls or Tortas",
+        "1 Jar Kirkland Signature Basil Pesto",
+        "1 Jar Best Foods Mayonnaise",
+        "1 Package Organic Turkey Slices",
+        "1 Large Tomato (sliced)",
+        "1 Red Onion (sliced)",
+        "1 Package Sliced Provolone or Sliced Fresh Mozzarella Cheese"
+    ],
+    "steps": [
+      ["Pre-heat oven to 400 degrees F.", ""],
+      ["Lay the rolls flat on the baking sheet. Spread basil pesto on each half. Then spread mayonnaise on the bottom half.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748486801/20220627_153730-768x576_jxhsn3.jpg"],
+      ["Next, place a few slices of turkey on the bottom half along with some slices of tomatoes and some slices of red onions.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748486805/20220627_153654-768x576_ezite3.jpg"],
+      ["Then top it with either provolone cheese or mozarella cheese.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748486810/20220627_153618-768x576_okgd9k.jpg"],
+      ["Heat open faced on baking sheet @ 400 degrees F for 10 minutes. Then turn the dial on the oven to Broil until the cheese is browned and bubbly. The side with just the pesto spread may need to be removed from the oven a minute or two before the other side with the cheese on it. Please keep a close eye on the sandwich to prevent it from burning.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748486814/20220627_153454-768x597_tdmufc.jpg"],
+      ["Assemble sandwich.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487142/20220629_005140-768x521_haypwc.jpg"],
+      ["And enjoy your copycat Costco Provolone Turkey Sandwich!", ""]
+    ]
+  },
+  {
+    "id": 134,
+    "category": "International",
+    "name": "Myojo Instant Chicken Udon Noodle",
+    "display": "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487774/20210407_173801_resized_qi1rnq.jpg",
+    "videoId": "Qa3gL0_afMQ",
+    "summary": "This Myojo Instant Chicken Udon Noodle recipe elevates store-bought noodles into a delicious, hearty meal. Whole chicken legs are simmered with ginger, onion, and seasonings to create a rich, homemade broth. The tender chicken is shredded and served alongside blanched bok choy and springy udon noodles that are tossed with the included seasoning packet. It's comforting, flavorful, and perfect for a satisfying meal.",
+    "ingredients": [
+        "7 Bags Myojo Chicken Flavor Udon Noodles",
+
+        "For boiling the chicken:",
+        "2 Whole Chicken Legs With Skin",
+        "14 Cups Distilled Water",
+        "1/2 Tablespoon Salt",
+        "1 1/2 Tablespoons Totole Granulated Chicken Flavor Soup Base Mix",
+        "3 Pieces Thinly Sliced Ginger (2 inches in length)",
+        "1 Yellow Onion (peeled)",
+
+        "For blanching the bok choy:",
+        "1 Bunch Bok Choy",
+        "Water (enough to blanch)",
+        "1/2 Teaspoon Salt",
+
+        "For garnish:",
+        "Chopped Green Onions",
+        "Chopped Cilantro",
+        "Lee Brand Fried Red Onion",
+        "Black Pepper",
+
+        "For equipment needed:",
+        "Stock Pot",
+        "Colander",
+        "Fine Mesh Handheld Strainer",
+        "Pair of Tongs"
+    ],
+    "steps": [
+      ["Place the chicken legs in a stock pot.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487680/20210407_202011_resized-768x576_plcqf7.jpg"],
+      ["Pour in 14 cups of distilled water. Then add in ½ a tablespoon of salt and 1 1/2 tablespoons of the Totole Granulated Chicken Flavor Soup Base Mix.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487684/20210407_201940_resized-768x540_yslkdo.jpg"],
+      ["Also add in 3 pieces of thinly sliced ginger.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487689/20210407_201718_resized-768x576_ondi7x.jpg"],
+      ["Lastly add in one whole peeled yellow onion and bring to a boil.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487693/20210407_201652_resized-768x576_pxtxoo.jpg"],
+      ["Use a fine mesh hand held strainer to scoop out the foam from the top of the broth and discard. Then reduce the heat to medium-low, cover with a lid but leave an open gap and simmer for 25 minutes. Then flip the chicken over and continue to simmer for another 20 minutes or until the chicken legs are cooked through.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487698/20210407_201525_resized-768x576_bi7vsa.jpg"],
+      ["Once the chicken is done cooking, transfer the chicken legs to a large bowl or container and add a ladle of the broth from the pot to prevent the chicken from drying out. Allow 10 minutes to cool.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487704/20210407_200905_resized-768x528_uolgoe.jpg"],
+      ["Then shred the chicken and set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487710/20210407_200815_resized-768x598_yz5gwm.jpg"],
+      ["Remove the onion and the ginger slices from the stock pot and discard.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487715/20210407_200722_resized-768x576_ov34xe.jpg"],
+      ["Use the fine mesh handheld strainer and to remove any small particles throughout the broth. Do this several times to make the broth clear.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487720/20210407_200633_resized-768x519_ftxwb2.jpg"],
+      ["Blanch the bok choy. Fill a wok with water , add ½ a teaspoon of salt and bring to a boil.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487725/20210407_201410_resized-768x637_ikwmzc.jpg"],
+      ["Then dump in the bok choy and cook for 30 seconds to 1 minute. Do not overcook the bok choy as it will cook further in the hot soup later.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487730/20210407_201207_resized-768x576_kmiylr.jpg"],
+      ["Transfer to a colander filled with cold water. Drain and set aside.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487736/20210407_201106_resized-768x576_mzegqy.jpg"],
+      ["In a small saucepan, pour in 2 cups of broth from the stock pot and 1 cup of distilled water. Turn the heat to medium-high and bring the broth to a boil.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487741/20210407_200603_resized-768x640_t4xlu2.jpg"],
+      ["Place the udon noodles in the boiling water and do not touch or disturb the udon noodles for 3 minutes to allow the noodles to begin to separate on their own.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487745/20210407_200509_resized-768x596_oh7tl3.jpg"],
+      ["Then use a pair of tongs to flip the noodles over and GENTLY shake the noodles left and right to help the noodles separate for the last 2 minutes. Turn off the heat. The udon noodles should take a total of approximately 5 minutes to cook.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487750/20210407_200357_resized-768x576_gkd5jv.jpg"],
+      ["Empty the silver chicken seasoning flavor packet that comes with the udon noodles into a bowl.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487757/20210407_200957_resized-768x576_rd5r2w.jpg"],
+      ["Then transfer the udon noodles to the bowl and toss well with the chicken seasoning.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487763/20210407_200133_resized-768x576_efy6ig.jpg"],
+      ["Place some shredded chicken and bok choy on top of the noodles.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487768/20210407_200013_resized-768x663_jokcjw.jpg"],
+      ["Pour the broth from the saucepan into the bowl. Garnish with some chopped green onions, chopped cilantro, Lee Brand fried red onions, and a sprinkle of black pepper.", "https://res.cloudinary.com/eatwithemilyimages/image/upload/v1748487774/20210407_173801_resized_qi1rnq.jpg"],
+      ["Notes: If it is too salty, simply add more water.", ""],
+      ["If it needs more flavor, add some of the Totole Granulated Chicken Flavor Soup Base Mix.", ""]
     ]
   }
 ]
