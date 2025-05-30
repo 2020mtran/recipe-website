@@ -1,4 +1,3 @@
-import { React, useState } from 'react';
 import { GiNoodles } from "react-icons/gi";
 import { FaHome, FaBook, FaInstagram, FaFacebook, FaYoutube, FaPinterest, FaBars } from "react-icons/fa";
 import { IoPerson, IoSearch } from "react-icons/io5";
@@ -38,10 +37,10 @@ const Header = ({ isOpen, setIsOpen }) => {
                     <FaBook className="text-black w-8 h-8 2xl:w-8 2xl:h-8"></FaBook>
                     <div className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">International</div>
                 </Link>
-                <div className="flex flex-row items-center gap-1">
+                {/* <div className="flex flex-row items-center gap-1">
                     <IoPerson className="text-black w-9 h-9"></IoPerson>
                     <div className="bg-transparent text-2xl font-semibold text-black">About</div>
-                </div>
+                </div> */}
             </div>
             <div className="hidden xl:flex flex-row gap-10 3xl:gap-20">
                 {/* <Link to="/" className="flex flex-row items-center gap-1">
@@ -60,10 +59,10 @@ const Header = ({ isOpen, setIsOpen }) => {
                     <FaBook className="text-black w-8 h-8 2xl:w-8 2xl:h-8"></FaBook>
                     <div className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">International</div>
                 </Link>
-                <div className="flex flex-row items-center gap-1">
+                {/* <div className="flex flex-row items-center gap-1">
                     <IoPerson className="text-black w-10 h-10 2xl:w-9 2xl:h-9"></IoPerson>
                     <div className="bg-transparent text-2xl 2xl:text-3xl font-semibold text-black">About</div>
-                </div>
+                </div> */}
             </div>
             <div className="flex flex-row flex-wrap items-center pr-2 gap-2">
                 <a
