@@ -24,7 +24,7 @@ const IRecipes = () => {
                             filteredRecipes.map((recipe) => (
                                 <Link to={`./${recipe.id}`} key={recipe.id} className='flex flex-col bg-black/80 rounded-lg 3xl:p-10 w-full gap-1 justify-center items-center shadow-lg
                                 transition-all duration-300 ease-in-out transform hover:scale-105'>
-                                    <img src={recipe.display} className='rounded-lg w-[120%] h-[120%] object-cover transition-transform duration-300 ease-in-out hover:scale-97'/>
+                                    <img key={recipe.display} src={recipe.display} alt={recipe.name} className='rounded-lg w-[120%] h-[120%] object-cover transition-transform duration-300 ease-in-out hover:scale-97'/>
                                     <p className='pr-2 pl-2 pb-2 text-snowpink text-xl xl:text-2xl'>{recipe.name}</p>
                                 </Link>
                             ))
