@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import RecipeInfo from './RecipeInfo.json'
 import Footer from '../homepage-components/Footer';
+import BannerAd from '../homepage-components/BannerAd';
 
 const VRRecipes = () => {
     const [searchQuery, setSearchQuery] = useState('');
@@ -45,6 +46,9 @@ const VRRecipes = () => {
                             )}
                     </div>
                 </div>
+            </div>
+            <div className='w-[70%] self-center'>
+                <BannerAd adSlot={"1234567890"} />
             </div>
             <Footer></Footer>
         </div>
