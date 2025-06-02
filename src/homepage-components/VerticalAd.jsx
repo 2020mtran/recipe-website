@@ -19,7 +19,7 @@ const VerticalAd = ({ adSlot }) => {
         key={location.pathname} // force new element on route change
         className="adsbygoogle w-full"
         style={{ display: "inline-block", width: "160px", height: "600px" }}
-        data-ad-client="ca-pub-3940256099942544" // Replace with real client ID in production
+        data-ad-client="ca-pub-5597411605892458" // Replace with real client ID in production
         data-ad-slot={adSlot}
         data-ad-format="vertical"
         data-full-width-responsive="true"

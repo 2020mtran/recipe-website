@@ -7,6 +7,7 @@ import NewRecipes from './NewRecipes';
 import Reviews from './Reviews';
 import Guidance from './Guidance';
 import Footer from './Footer';
+import BannerAd from "../homepage-components/BannerAd";
 
 const MainContainer = ({ children }) => {
     const [isOpen, setIsOpen] = useState(false);
@@ -18,8 +19,14 @@ const MainContainer = ({ children }) => {
             <HeroSection></HeroSection>
             <FeaturedRecipes></FeaturedRecipes>
             <NewRecipes></NewRecipes>
+            <div className='w-[70%] self-center'>
+                <BannerAd adSlot={"1234567890"} />
+            </div>
             <Reviews></Reviews>
             <Guidance></Guidance>
+            <div className='w-[70%] self-center'>
+                <BannerAd adSlot={"1234567890"} />
+            </div>
             <Footer></Footer>
             {children}
         </div>
