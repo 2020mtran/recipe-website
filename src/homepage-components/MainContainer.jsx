@@ -20,12 +20,12 @@ const MainContainer = ({ children }) => {
             <FeaturedRecipes></FeaturedRecipes>
             <NewRecipes></NewRecipes>
             <div className='w-[70%] self-center'>
-                <BannerAd adSlot={"1234567890"} />
+                <BannerAd adSlot={"6177731509"} />
             </div>
             <Reviews></Reviews>
             <Guidance></Guidance>
             <div className='w-[70%] self-center'>
-                <BannerAd adSlot={"1234567890"} />
+                <BannerAd adSlot={"6177731509"} />
             </div>
             <Footer></Footer>
             {children}

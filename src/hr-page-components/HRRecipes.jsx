@@ -36,7 +36,7 @@ const HRecipes = () => {
                 </div>
             </div>
             <div className='w-[70%] self-center'>
-                <BannerAd adSlot={"1234567890"} />
+                <BannerAd adSlot={"6177731509"} />
             </div>
             <Footer></Footer>
         </div>

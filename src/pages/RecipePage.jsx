@@ -23,9 +23,9 @@ const RecipePage = () => {
             <Sidebar isOpen={isOpen} setIsOpen={setIsOpen} />
             <div className='flex flex-row'>
                 <div className='hidden xl:flex flex-col justify-around xl:ml-15'>
-                    <VerticalAd adSlot={"1234567890"}/>
-                    <VerticalAd adSlot={"1234567890"}/>
-                    <VerticalAd adSlot={"1234567890"}/>
+                    <VerticalAd adSlot={"5930319498"}/>
+                    <VerticalAd adSlot={"5930319498"}/>
+                    <VerticalAd adSlot={"5930319498"}/>
                 </div>
                 <div className='flex flex-col items-center'>
                     <div className='relative w-full lg:hidden h-64'>
@@ -91,7 +91,7 @@ const RecipePage = () => {
                                 }
                             })}
                         </ul>
-                        <BannerAd adSlot={"1234567890"} />
+                        <BannerAd adSlot={"6177731509"} />
                         <div className='flex flex-row relative items-center mt-2'>
                             <p className='text-chilired text-lg font-semibold md:text-2xl mr-2 mb-3 flex'>Steps</p>
                             <div className="flex-grow border-t border-black/85"></div>
@@ -112,13 +112,13 @@ const RecipePage = () => {
                                 </div>
                             ))}
                         </div>
-                        <BannerAd adSlot={"1234567890"} />
+                        <BannerAd adSlot={"6177731509"} />
                     </div>
                 </div>
                 <div className='hidden xl:flex flex-col justify-around xl:mr-15'>
-                    <VerticalAd adSlot={"1234567890"}/>
-                    <VerticalAd adSlot={"1234567890"}/>
-                    <VerticalAd adSlot={"1234567890"}/>
+                    <VerticalAd adSlot={"5930319498"}/>
+                    <VerticalAd adSlot={"5930319498"}/>
+                    <VerticalAd adSlot={"5930319498"}/>
                 </div>
             </div>
             <Footer></Footer>
