@@ -44,18 +44,18 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
                         <TbBowlChopsticks className="text-snowpink w-8 h-8"></TbBowlChopsticks>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">Vietnamese Recipes</button>
                     </Link>
-                    <div className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
+                    <Link to="/pages/healthy-recipes" className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
                         <LuSalad className="text-snowpink w-8 h-8"></LuSalad>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">Healthy Recipes</button>
-                    </div>
+                    </Link>
                     {/* <div className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
                         <LuDessert className="text-snowpink w-8 h-8"></LuDessert>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">Dessert Recipes</button>
                     </div> */}
-                    <div className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
+                    <Link to="/pages/international-recipes" className="flex flex-row items-center gap-1 pt-0 pb-2 border-b border-b-black/50">
                         <FaEarthAmericas className="text-snowpink w-8 h-8"></FaEarthAmericas>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">International Recipes</button>
-                    </div>
+                    </Link>
                     {/* <div className="flex flex-row items-center gap-1 pt-0 pb-2">
                         <IoPerson className="text-snowpink w-9 h-9"></IoPerson>
                         <button className="bg-transparent text-2xl font-semibold text-snowpink">About</button>
